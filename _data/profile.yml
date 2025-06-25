@@ -44,7 +44,7 @@ education:
   date: Sep. 2025 - present
 - name: Tongji University
   logo: /assets/images/badges/tongji_blue.png
-  position: B.S. in Computer Science
+  position: B.S. in Computer Science (GPA rank <b>top 5%<\b>)
   date: Sep. 2021 - Jul. 2025
 
 # experience:
@@ -54,9 +54,11 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: National Scholarship of China
+  date: 2022
+- name: Outstanding Graduate of Tongji University
+  date: 2025
+- name: First Prize of The 14th National University Student Mathematics Competition Non-Mathematics Category (Shanghai Region) 
+  date: 2022
+- name: 2023 CCF-BDCI competition, 8th place (1st of undergraduate teams) in B list of the track "Deployment of super resolution model based on tpu platform"
+  date: 2023
