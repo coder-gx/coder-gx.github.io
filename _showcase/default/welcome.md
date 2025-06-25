@@ -12,9 +12,6 @@ date: 2025-06-26 00:50:00 +0800
     </p>
     <p>
         My current reading interests focus on <b>psychology</b> and <b>philosophy</b>.
-        <ul>
-        <li><i>What Life Could Mean to You</i> by Alfred Adler</li>
-        </ul>
     </p>
     <p>When it comes to music, I'm into J-pop&J-rock —  <a href="https://yorushika.com/?lang=en" target="_blank"><b>Yorushika(ヨルシカ)</b></a> is my favorite band. (Currently learning Japanese!)
     </p>
