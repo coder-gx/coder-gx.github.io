@@ -1,24 +1,23 @@
 <div class="row">
     <div class="col">
-        <div class="card border-0 shadow-sm bg-white">
-            <div class="card-body p-5">
+        <div class="card border-0 shadow-sm bg-white profile-card">
+            <div class="card-body p-4 p-md-5">
                 <div class="row">
                     <div class="col">
                         {% if site.data.profile.portrait_url %}
                         <!-- When the screen is wider than md, float the portrait on the right -->
-                        <div class="figure float-right ml-4 mb-4 d-none d-md-block">
+                        <div class="figure float-right ml-4 mb-4 d-none d-md-block profile-portrait-wrap">
                             <img 
                                 src="{{ site.data.profile.portrait_url | relative_url }}" 
-                                class="figure-img img-fluid img-thumbnail" 
-                                style="height: 200px;"
+                                class="figure-img img-fluid profile-portrait" 
                                 data-toggle="tooltip" 
                                 data-placement="top" 
                                 title="{{ site.data.profile.portrait_caption }}">
                         </div>
                         {% endif %}
 
-                        <div class="d-flex">
-                            <div class="h1 font-weight-normal">
+                        <div class="d-flex align-items-center">
+                            <div class="h1 profile-name">
                                 {{ site.data.profile.primary_name }} <small>{{ site.data.profile.secondary_name }}</small>
                             </div>
                             {% if site.data.profile.portrait_url %}
@@ -40,6 +39,16 @@
                         <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>
+                        {% if site.data.profile.research_interests %}
+                        <div class="research-focus mt-3">
+                            <div class="small text-muted text-uppercase research-focus-label">Research Focus</div>
+                            <div class="research-tags">
+                                {% for interest in site.data.profile.research_interests %}
+                                <span class="badge badge-light research-tag">{{ interest }}</span>
+                                {% endfor %}
+                            </div>
+                        </div>
+                        {% endif %}
                         {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
                         {% endif %}

@@ -2,15 +2,14 @@ primary_name: "Xuan Gong"
 secondary_name: ""
 navbar_name: "Xuan Gong's Homepage"
 
-# positions:
-# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-#   name: Position 1 with logo
-# - name: Position 2 without logo
+positions:
+- logo: /assets/images/badges/sjtu_red.png
+  name: Ph.D. Student, School of Computer Science, Shanghai Jiao Tong University
 
 
 email: "xandergong0610@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: 4-NfBHMAAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: https://scholar.google.com/citations?user=4-NfBHMAAAAJ&hl=en
 github: coder-gx
 twitter: XanderD54234753 # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -22,13 +21,19 @@ twitter: XanderD54234753 # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi! I am Xuan Gong (Chinese name: 龚宣; I also go by <b>Xander</b>), a first-year Ph.D candidate at Shanghai Jiao Tong University. 
+    Hi! I am Xuan Gong (<b>Xander Gong</b>), a first-year Ph.D. student in the School of Computer Science at Shanghai Jiao Tong University.
+  </p>
   <p>
-    My research interests mainly focus on <b>VLM</b> and <b>LLM</b>, especially about <b>reasoning</b> and <b>agent</b>.
+    My research focuses on the <b>optimization</b> and <b>alignment</b> of foundation models, with an emphasis on improving the reasoning, factuality, agentic capabilities, safety, and science applications of <b>large language models</b> and <b>vision-language models</b> (maybe world models in the future).
   </p>
   <p>
     <i>If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you.</i>
   </p>
+
+research_interests:
+- Vision Language Model
+- Machine Learning
+- LLM Agent
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
@@ -39,7 +44,7 @@ education:
   logo: /assets/images/badges/sjtu_red.png
   position: >- 
     School of Computer Science <br/>
-    Ph.D. Candidate
+    Ph.D. Student
   date: Sep. 2025 - present
 - name: Tongji University
   logo: /assets/images/badges/tongji_blue.png
@@ -59,5 +64,3 @@ awards:
   date: 2025
 - name: First Prize of The 14th National University Student Mathematics Competition Non-Mathematics Category (Shanghai Region) 
   date: 2022
-- name: 2023 CCF-BDCI competition, 8th place (1st of undergraduate teams) in B list of the track "Deployment of super resolution model based on tpu platform"
-  date: 2023
