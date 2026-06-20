@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 32
+      "count": 33
     }
   ],
   "cities": [
@@ -21,6 +21,14 @@
       "latitude": 45.52345,
       "longitude": -122.67621,
       "count": 2
+    },
+    {
+      "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
+      "count": 1
     }
   ]
 }
