@@ -1,0 +1,64 @@
+name: Update visitor map data
+
+# Periodically pulls the visitor-locations Worker API (reachable from the
+# GitHub runner) and caches the response into the repo, so the homepage map
+# can render from a local file even for visitors who cannot reach the Worker.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-visitor-map
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch visitor locations
+        run: |
+          set -euo pipefail
+          API="https://visitor-locations-api.1829795398.workers.dev/visitor-locations"
+          OUT="assets/data/visitor_locations.json"
+          TMP="$(mktemp)"
+
+          # Retry a few times in case of a transient hiccup.
+          for attempt in 1 2 3 4 5; do
+            if curl -fsS --max-time 20 "$API" -o "$TMP"; then
+              break
+            fi
+            echo "Attempt $attempt failed, retrying..." >&2
+            sleep $((attempt * 5))
+          done
+
+          # Validate that we actually got well-formed JSON before committing.
+          if ! python3 -c "import json,sys; json.load(open('$TMP'))"; then
+            echo "Fetched content is not valid JSON; keeping existing cache." >&2
+            exit 1
+          fi
+
+          mkdir -p "$(dirname "$OUT")"
+          # Pretty-print for readable diffs.
+          python3 -c "import json; json.dump(json.load(open('$TMP')), open('$OUT','w'), indent=2, ensure_ascii=False)"
+          echo >> "$OUT"
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets/data/visitor_locations.json; then
+            echo "No changes to commit."
+          else
+            git add assets/data/visitor_locations.json
+            git commit -m "chore: refresh visitor map data [skip ci]"
+            git push
+          fi

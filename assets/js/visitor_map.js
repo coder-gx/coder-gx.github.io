@@ -58,6 +58,16 @@
         };
         var rows = Array.isArray(payload) ? payload : (payload.locations || payload.visitors || payload.data || []);
 
+        // Cloudflare Worker shape: { countries: [...], cities: [...] }.
+        // Prefer cities (they carry precise lat/long); fall back to the country list.
+        if (!Array.isArray(payload) && payload && typeof payload === "object") {
+            if (Array.isArray(payload.cities) && payload.cities.length) {
+                rows = payload.cities;
+            } else if (Array.isArray(payload.countries) && payload.countries.length) {
+                rows = payload.countries;
+            }
+        }
+
         if (!Array.isArray(rows) && payload.countries) {
             rows = Object.keys(payload.countries).map(function (code) {
                 return { countryCode: code, count: payload.countries[code] };
@@ -76,7 +86,7 @@
             var code = String(item.countryCode || item.country_code || item.code || item.country || "").toUpperCase();
             var center = countryCenters[code] || {};
             return {
-                name: item.name || center.name || item.country || item.city || item.countryCode || "Visitor",
+                name: item.name || item.city || center.name || item.country || item.countryCode || "Visitor",
                 latitude: Number(item.latitude || item.lat || center.latitude),
                 longitude: Number(item.longitude || item.lng || item.lon || center.longitude),
                 count: Number(item.count || item.views || item.value || 1)
@@ -105,7 +115,7 @@
     }
 
     function loadVisitors() {
-        return fetchJsonWithTimeout(dataUrl, 15000)
+        return fetchJsonWithTimeout(dataUrl, 8000)
             .then(function (payload) {
                 var visitors = normalizeVisitors(payload);
                 if (!visitors.length) {
