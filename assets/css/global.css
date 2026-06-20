@@ -220,6 +220,55 @@ h5.mt-0 {
     margin-right: 0.35rem;
 }
 
+.visitor-map-body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 300px;
+    padding: 1.25rem;
+    position: relative;
+}
+
+.visitor-world-map {
+    background: #fbfcff;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    min-height: 280px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.visitor-world-map svg {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.visitor-map-ocean {
+    fill: #f8fbff;
+}
+
+.visitor-map-country {
+    fill: #d8e5f8;
+    stroke: #ffffff;
+    stroke-width: 0.7;
+}
+
+.visitor-map-point {
+    fill: rgba(36, 84, 166, 0.82);
+    stroke: #ffffff;
+    stroke-width: 2;
+}
+
+.visitor-map-point:hover {
+    fill: #123d7a;
+}
+
+.visitor-world-map-error {
+    background:
+        linear-gradient(135deg, rgba(216, 229, 248, 0.45), rgba(255, 255, 255, 0.9));
+}
+
 @media (max-width: 767.98px) {
     body {
         padding-top: 4.5rem;
@@ -237,5 +286,14 @@ h5.mt-0 {
         display: inline-block;
         margin-bottom: 0.35rem;
         white-space: normal;
+    }
+
+    .visitor-map-body {
+        min-height: 210px;
+        padding: 0.85rem;
+    }
+
+    .visitor-world-map {
+        min-height: 200px;
     }
 }
