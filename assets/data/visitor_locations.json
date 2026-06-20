@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 36
+      "count": 37
     },
     {
       "country": "IT",
@@ -28,6 +28,14 @@
     },
     {
       "country": "US",
+      "city": "Washington",
+      "region": "Virginia",
+      "latitude": 38.71345,
+      "longitude": -78.15944,
+      "count": 2
+    },
+    {
+      "country": "US",
       "city": "Cheyenne",
       "region": "Wyoming",
       "latitude": 41.13998,
@@ -40,14 +48,6 @@
       "region": "Lazio",
       "latitude": 42.54255,
       "longitude": 12.03192,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Washington",
-      "region": "Virginia",
-      "latitude": 38.71345,
-      "longitude": -78.15944,
       "count": 1
     }
   ]
