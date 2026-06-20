@@ -105,7 +105,7 @@
     }
 
     function loadVisitors() {
-        return fetchJsonWithTimeout(dataUrl, 5000)
+        return fetchJsonWithTimeout(dataUrl, 15000)
             .then(function (payload) {
                 var visitors = normalizeVisitors(payload);
                 if (!visitors.length) {
