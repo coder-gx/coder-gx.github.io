@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 40
+      "count": 41
     },
     {
       "country": "IT",
@@ -56,6 +56,14 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "latitude": 33.44838,
+      "longitude": -112.07404,
       "count": 1
     }
   ]
