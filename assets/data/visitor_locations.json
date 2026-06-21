@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 38
+      "count": 40
     },
     {
       "country": "IT",
@@ -16,15 +16,7 @@
       "region": "Washington",
       "latitude": 47.60621,
       "longitude": -122.33207,
-      "count": 32
-    },
-    {
-      "country": "US",
-      "city": "Portland",
-      "region": "Oregon",
-      "latitude": 45.52345,
-      "longitude": -122.67621,
-      "count": 2
+      "count": 33
     },
     {
       "country": "US",
@@ -32,6 +24,14 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
+      "count": 3
+    },
+    {
+      "country": "US",
+      "city": "Portland",
+      "region": "Oregon",
+      "latitude": 45.52345,
+      "longitude": -122.67621,
       "count": 2
     },
     {
