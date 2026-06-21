@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 37
+      "count": 38
     },
     {
       "country": "IT",
@@ -48,6 +48,14 @@
       "region": "Lazio",
       "latitude": 42.54255,
       "longitude": 12.03192,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Chicago",
+      "region": "Illinois",
+      "latitude": 41.85003,
+      "longitude": -87.65005,
       "count": 1
     }
   ]
