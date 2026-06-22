@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 43
+      "count": 46
     },
     {
       "country": "IT",
@@ -16,7 +16,7 @@
       "region": "Washington",
       "latitude": 47.60621,
       "longitude": -122.33207,
-      "count": 33
+      "count": 34
     },
     {
       "country": "US",
@@ -64,6 +64,22 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "latitude": 33.749,
+      "longitude": -84.38798,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "San Jose",
+      "region": "California",
+      "latitude": 37.33939,
+      "longitude": -121.89496,
       "count": 1
     }
   ]
