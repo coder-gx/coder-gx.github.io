@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 46
+      "count": 47
     },
     {
       "country": "IT",
@@ -44,6 +44,14 @@
     },
     {
       "country": "US",
+      "city": "Chicago",
+      "region": "Illinois",
+      "latitude": 41.85003,
+      "longitude": -87.65005,
+      "count": 2
+    },
+    {
+      "country": "US",
       "city": "Cheyenne",
       "region": "Wyoming",
       "latitude": 41.13998,
@@ -56,14 +64,6 @@
       "region": "Lazio",
       "latitude": 42.54255,
       "longitude": 12.03192,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Chicago",
-      "region": "Illinois",
-      "latitude": 41.85003,
-      "longitude": -87.65005,
       "count": 1
     },
     {
