@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 50
+      "count": 51
     },
     {
       "country": "IT",
@@ -36,6 +36,14 @@
     },
     {
       "country": "US",
+      "city": "San Jose",
+      "region": "California",
+      "latitude": 37.33939,
+      "longitude": -121.89496,
+      "count": 3
+    },
+    {
+      "country": "US",
       "city": "Portland",
       "region": "Oregon",
       "latitude": 45.52345,
@@ -48,14 +56,6 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 2
-    },
-    {
-      "country": "US",
-      "city": "San Jose",
-      "region": "California",
-      "latitude": 37.33939,
-      "longitude": -121.89496,
       "count": 2
     },
     {
