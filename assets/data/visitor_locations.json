@@ -2,7 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 51
+      "count": 52
+    },
+    {
+      "country": "JP",
+      "count": 1
     },
     {
       "country": "IT",
@@ -20,6 +24,14 @@
     },
     {
       "country": "US",
+      "city": "San Jose",
+      "region": "California",
+      "latitude": 37.33939,
+      "longitude": -121.89496,
+      "count": 4
+    },
+    {
+      "country": "US",
       "city": "Washington",
       "region": "Virginia",
       "latitude": 38.71345,
@@ -32,14 +44,6 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 3
-    },
-    {
-      "country": "US",
-      "city": "San Jose",
-      "region": "California",
-      "latitude": 37.33939,
-      "longitude": -121.89496,
       "count": 3
     },
     {
@@ -88,6 +92,14 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
+      "count": 1
+    },
+    {
+      "country": "JP",
+      "city": "Tokyo",
+      "region": "Tokyo",
+      "latitude": 35.6895,
+      "longitude": 139.69171,
       "count": 1
     }
   ]
