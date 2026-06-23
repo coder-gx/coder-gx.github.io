@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 48
+      "count": 50
     },
     {
       "country": "IT",
@@ -16,7 +16,7 @@
       "region": "Washington",
       "latitude": 47.60621,
       "longitude": -122.33207,
-      "count": 34
+      "count": 35
     },
     {
       "country": "US",
@@ -80,6 +80,14 @@
       "region": "Georgia",
       "latitude": 33.749,
       "longitude": -84.38798,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "latitude": 41.60054,
+      "longitude": -93.60911,
       "count": 1
     }
   ]
