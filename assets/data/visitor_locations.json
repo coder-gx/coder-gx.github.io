@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 47
+      "count": 48
     },
     {
       "country": "IT",
@@ -52,6 +52,14 @@
     },
     {
       "country": "US",
+      "city": "San Jose",
+      "region": "California",
+      "latitude": 37.33939,
+      "longitude": -121.89496,
+      "count": 2
+    },
+    {
+      "country": "US",
       "city": "Cheyenne",
       "region": "Wyoming",
       "latitude": 41.13998,
@@ -72,14 +80,6 @@
       "region": "Georgia",
       "latitude": 33.749,
       "longitude": -84.38798,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "San Jose",
-      "region": "California",
-      "latitude": 37.33939,
-      "longitude": -121.89496,
       "count": 1
     }
   ]
