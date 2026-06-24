@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 55
+      "count": 57
     },
     {
       "country": "JP",
@@ -64,6 +64,14 @@
     },
     {
       "country": "US",
+      "city": "Los Angeles",
+      "region": "California",
+      "latitude": 34.05223,
+      "longitude": -118.24368,
+      "count": 2
+    },
+    {
+      "country": "US",
       "city": "Cheyenne",
       "region": "Wyoming",
       "latitude": 41.13998,
@@ -112,10 +120,10 @@
     },
     {
       "country": "US",
-      "city": "Los Angeles",
-      "region": "California",
-      "latitude": 34.05223,
-      "longitude": -118.24368,
+      "city": "Boydton",
+      "region": "Virginia",
+      "latitude": 36.66764,
+      "longitude": -78.3875,
       "count": 1
     }
   ]
