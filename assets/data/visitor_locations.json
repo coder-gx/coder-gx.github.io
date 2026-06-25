@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 62
+      "count": 63
     },
     {
       "country": "JP",
@@ -40,19 +40,19 @@
     },
     {
       "country": "US",
+      "city": "Washington",
+      "region": "Virginia",
+      "latitude": 38.71345,
+      "longitude": -78.15944,
+      "count": 4
+    },
+    {
+      "country": "US",
       "city": "Phoenix",
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
       "count": 4
-    },
-    {
-      "country": "US",
-      "city": "Washington",
-      "region": "Virginia",
-      "latitude": 38.71345,
-      "longitude": -78.15944,
-      "count": 3
     },
     {
       "country": "US",
