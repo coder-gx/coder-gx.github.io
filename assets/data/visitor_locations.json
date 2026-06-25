@@ -2,18 +2,18 @@
   "countries": [
     {
       "country": "US",
-      "count": 68
+      "count": 69
     },
     {
       "country": "JP",
-      "count": 1
-    },
-    {
-      "country": "IT",
-      "count": 1
+      "count": 2
     },
     {
       "country": "BD",
+      "count": 2
+    },
+    {
+      "country": "IT",
       "count": 1
     }
   ],
@@ -32,7 +32,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 6
+      "count": 7
     },
     {
       "country": "US",
@@ -80,6 +80,14 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
+      "count": 2
+    },
+    {
+      "country": "BD",
+      "city": "Dhaka",
+      "region": "Dhaka Division",
+      "latitude": 23.7104,
+      "longitude": 90.40744,
       "count": 2
     },
     {
@@ -131,11 +139,11 @@
       "count": 1
     },
     {
-      "country": "BD",
-      "city": "Dhaka",
-      "region": "Dhaka Division",
-      "latitude": 23.7104,
-      "longitude": 90.40744,
+      "country": "JP",
+      "city": "Monzen-nakachō",
+      "region": "Tokyo",
+      "latitude": 35.6309,
+      "longitude": 139.7917,
       "count": 1
     }
   ]
