@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 63
+      "count": 68
     },
     {
       "country": "JP",
@@ -10,6 +10,10 @@
     },
     {
       "country": "IT",
+      "count": 1
+    },
+    {
+      "country": "BD",
       "count": 1
     }
   ],
@@ -20,7 +24,7 @@
       "region": "Washington",
       "latitude": 47.60621,
       "longitude": -122.33207,
-      "count": 35
+      "count": 39
     },
     {
       "country": "US",
@@ -64,19 +68,19 @@
     },
     {
       "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
+      "count": 2
+    },
+    {
+      "country": "US",
       "city": "Chicago",
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
       "count": 2
-    },
-    {
-      "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 1
     },
     {
       "country": "IT",
@@ -124,6 +128,14 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
+      "count": 1
+    },
+    {
+      "country": "BD",
+      "city": "Dhaka",
+      "region": "Dhaka Division",
+      "latitude": 23.7104,
+      "longitude": 90.40744,
       "count": 1
     }
   ]
