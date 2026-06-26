@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 70
+      "count": 74
     },
     {
       "country": "JP",
@@ -60,6 +60,14 @@
     },
     {
       "country": "US",
+      "city": "Chicago",
+      "region": "Illinois",
+      "latitude": 41.85003,
+      "longitude": -87.65005,
+      "count": 3
+    },
+    {
+      "country": "US",
       "city": "Portland",
       "region": "Oregon",
       "latitude": 45.52345,
@@ -72,14 +80,6 @@
       "region": "Wyoming",
       "latitude": 41.13998,
       "longitude": -104.82025,
-      "count": 2
-    },
-    {
-      "country": "US",
-      "city": "Chicago",
-      "region": "Illinois",
-      "latitude": 41.85003,
-      "longitude": -87.65005,
       "count": 2
     },
     {
@@ -144,6 +144,30 @@
       "region": "Tokyo",
       "latitude": 35.6309,
       "longitude": 139.7917,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Newark",
+      "region": "New Jersey",
+      "latitude": 40.73566,
+      "longitude": -74.17237,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Leesburg",
+      "region": "Virginia",
+      "latitude": 39.11566,
+      "longitude": -77.5636,
       "count": 1
     }
   ]
