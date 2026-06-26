@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 76
+      "count": 78
     },
     {
       "country": "JP",
@@ -24,7 +24,7 @@
       "region": "Washington",
       "latitude": 47.60621,
       "longitude": -122.33207,
-      "count": 39
+      "count": 40
     },
     {
       "country": "US",
@@ -52,19 +52,19 @@
     },
     {
       "country": "US",
+      "city": "Chicago",
+      "region": "Illinois",
+      "latitude": 41.85003,
+      "longitude": -87.65005,
+      "count": 4
+    },
+    {
+      "country": "US",
       "city": "Phoenix",
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
       "count": 4
-    },
-    {
-      "country": "US",
-      "city": "Chicago",
-      "region": "Illinois",
-      "latitude": 41.85003,
-      "longitude": -87.65005,
-      "count": 3
     },
     {
       "country": "US",
