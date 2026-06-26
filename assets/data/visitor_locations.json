@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 74
+      "count": 76
     },
     {
       "country": "JP",
@@ -83,6 +83,14 @@
       "count": 2
     },
     {
+      "country": "US",
+      "city": "Boydton",
+      "region": "Virginia",
+      "latitude": 36.66764,
+      "longitude": -78.3875,
+      "count": 2
+    },
+    {
       "country": "BD",
       "city": "Dhaka",
       "region": "Dhaka Division",
@@ -131,14 +139,6 @@
       "count": 1
     },
     {
-      "country": "US",
-      "city": "Boydton",
-      "region": "Virginia",
-      "latitude": 36.66764,
-      "longitude": -78.3875,
-      "count": 1
-    },
-    {
       "country": "JP",
       "city": "Monzen-nakachō",
       "region": "Tokyo",
@@ -168,6 +168,14 @@
       "region": "Virginia",
       "latitude": 39.11566,
       "longitude": -77.5636,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "latitude": 39.04372,
+      "longitude": -77.48749,
       "count": 1
     }
   ]
