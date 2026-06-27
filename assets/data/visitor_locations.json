@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 81
+      "count": 82
     },
     {
       "country": "JP",
@@ -68,6 +68,14 @@
     },
     {
       "country": "US",
+      "city": "Boydton",
+      "region": "Virginia",
+      "latitude": 36.66764,
+      "longitude": -78.3875,
+      "count": 3
+    },
+    {
+      "country": "US",
       "city": "Portland",
       "region": "Oregon",
       "latitude": 45.52345,
@@ -80,14 +88,6 @@
       "region": "Wyoming",
       "latitude": 41.13998,
       "longitude": -104.82025,
-      "count": 2
-    },
-    {
-      "country": "US",
-      "city": "Boydton",
-      "region": "Virginia",
-      "latitude": 36.66764,
-      "longitude": -78.3875,
       "count": 2
     },
     {
