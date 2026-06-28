@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 85
+      "count": 89
     },
     {
       "country": "JP",
@@ -11,6 +11,10 @@
     {
       "country": "BD",
       "count": 2
+    },
+    {
+      "country": "SG",
+      "count": 1
     },
     {
       "country": "IT",
@@ -24,7 +28,7 @@
       "region": "Washington",
       "latitude": 47.60621,
       "longitude": -122.33207,
-      "count": 40
+      "count": 43
     },
     {
       "country": "US",
@@ -44,19 +48,19 @@
     },
     {
       "country": "US",
+      "city": "Chicago",
+      "region": "Illinois",
+      "latitude": 41.85003,
+      "longitude": -87.65005,
+      "count": 5
+    },
+    {
+      "country": "US",
       "city": "Los Angeles",
       "region": "California",
       "latitude": 34.05223,
       "longitude": -118.24368,
       "count": 5
-    },
-    {
-      "country": "US",
-      "city": "Chicago",
-      "region": "Illinois",
-      "latitude": 41.85003,
-      "longitude": -87.65005,
-      "count": 4
     },
     {
       "country": "US",
@@ -176,6 +180,14 @@
       "region": "Virginia",
       "latitude": 39.04372,
       "longitude": -77.48749,
+      "count": 1
+    },
+    {
+      "country": "SG",
+      "city": "Jurong West",
+      "region": "",
+      "latitude": 1.35028,
+      "longitude": 103.72278,
       "count": 1
     }
   ]
