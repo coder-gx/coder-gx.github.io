@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 91
+      "count": 92
     },
     {
       "country": "JP",
-      "count": 2
+      "count": 4
     },
     {
       "country": "BD",
@@ -36,7 +36,7 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
-      "count": 9
+      "count": 10
     },
     {
       "country": "US",
@@ -95,6 +95,14 @@
       "count": 2
     },
     {
+      "country": "JP",
+      "city": "Tokyo",
+      "region": "Tokyo",
+      "latitude": 35.6895,
+      "longitude": 139.69171,
+      "count": 2
+    },
+    {
       "country": "BD",
       "city": "Dhaka",
       "region": "Dhaka Division",
@@ -124,14 +132,6 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 1
-    },
-    {
-      "country": "JP",
-      "city": "Tokyo",
-      "region": "Tokyo",
-      "latitude": 35.6895,
-      "longitude": 139.69171,
       "count": 1
     },
     {
@@ -188,6 +188,14 @@
       "region": "",
       "latitude": 1.35028,
       "longitude": 103.72278,
+      "count": 1
+    },
+    {
+      "country": "JP",
+      "city": "Ebara",
+      "region": "Tokyo",
+      "latitude": 35.617,
+      "longitude": 139.7486,
       "count": 1
     }
   ]
