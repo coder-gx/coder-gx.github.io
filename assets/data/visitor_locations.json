@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 102
+      "count": 106
     },
     {
       "country": "JP",
-      "count": 4
+      "count": 5
     },
     {
       "country": "BD",
@@ -44,7 +44,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 9
+      "count": 10
     },
     {
       "country": "US",
@@ -119,6 +119,22 @@
       "count": 2
     },
     {
+      "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
+      "count": 2
+    },
+    {
+      "country": "US",
+      "city": "Dallas",
+      "region": "Texas",
+      "latitude": 32.78306,
+      "longitude": -96.80667,
+      "count": 2
+    },
+    {
       "country": "IT",
       "city": "Montefiascone",
       "region": "Lazio",
@@ -148,14 +164,6 @@
       "region": "Tokyo",
       "latitude": 35.6309,
       "longitude": 139.7917,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Council Bluffs",
-      "region": "Iowa",
-      "latitude": 41.26194,
-      "longitude": -95.86083,
       "count": 1
     },
     {
@@ -196,6 +204,14 @@
       "region": "Tokyo",
       "latitude": 35.617,
       "longitude": 139.7486,
+      "count": 1
+    },
+    {
+      "country": "JP",
+      "city": "Asagaya-minami",
+      "region": "Tokyo",
+      "latitude": 35.6769,
+      "longitude": 139.652,
       "count": 1
     }
   ]
