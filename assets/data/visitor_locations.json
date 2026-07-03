@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 112
+      "count": 114
     },
     {
       "country": "JP",
@@ -72,19 +72,19 @@
     },
     {
       "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
+      "count": 4
+    },
+    {
+      "country": "US",
       "city": "Phoenix",
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
       "count": 4
-    },
-    {
-      "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 3
     },
     {
       "country": "US",
@@ -124,6 +124,14 @@
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
+      "count": 2
+    },
+    {
+      "country": "US",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "latitude": 39.04372,
+      "longitude": -77.48749,
       "count": 2
     },
     {
@@ -180,14 +188,6 @@
       "region": "Virginia",
       "latitude": 39.11566,
       "longitude": -77.5636,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Ashburn",
-      "region": "Virginia",
-      "latitude": 39.04372,
-      "longitude": -77.48749,
       "count": 1
     },
     {
