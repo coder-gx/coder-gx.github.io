@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 126
+      "count": 128
     },
     {
       "country": "JP",
-      "count": 5
+      "count": 6
     },
     {
       "country": "BD",
@@ -52,7 +52,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 9
+      "count": 10
     },
     {
       "country": "US",
@@ -87,6 +87,14 @@
       "count": 4
     },
     {
+      "country": "JP",
+      "city": "Tokyo",
+      "region": "Tokyo",
+      "latitude": 35.6895,
+      "longitude": 139.69171,
+      "count": 3
+    },
+    {
       "country": "US",
       "city": "Portland",
       "region": "Oregon",
@@ -100,14 +108,6 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 2
-    },
-    {
-      "country": "JP",
-      "city": "Tokyo",
-      "region": "Tokyo",
-      "latitude": 35.6895,
-      "longitude": 139.69171,
       "count": 2
     },
     {
@@ -212,6 +212,14 @@
       "region": "Tokyo",
       "latitude": 35.6769,
       "longitude": 139.652,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "San Diego",
+      "region": "California",
+      "latitude": 32.71571,
+      "longitude": -117.16472,
       "count": 1
     }
   ]
