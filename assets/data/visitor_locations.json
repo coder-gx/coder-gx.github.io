@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 130
+      "count": 132
     },
     {
       "country": "JP",
@@ -52,7 +52,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 10
+      "count": 11
     },
     {
       "country": "US",
@@ -220,6 +220,14 @@
       "region": "California",
       "latitude": 32.71571,
       "longitude": -117.16472,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Santa Clara",
+      "region": "California",
+      "latitude": 37.35411,
+      "longitude": -121.95524,
       "count": 1
     }
   ]
