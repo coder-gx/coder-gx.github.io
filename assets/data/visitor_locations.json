@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 133
+      "count": 134
     },
     {
       "country": "JP",
@@ -18,6 +18,10 @@
     },
     {
       "country": "IT",
+      "count": 1
+    },
+    {
+      "country": "GB",
       "count": 1
     }
   ],
@@ -72,18 +76,18 @@
     },
     {
       "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 4
-    },
-    {
-      "country": "US",
       "city": "Phoenix",
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
+      "count": 5
+    },
+    {
+      "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
       "count": 4
     },
     {
@@ -228,6 +232,14 @@
       "region": "California",
       "latitude": 37.35411,
       "longitude": -121.95524,
+      "count": 1
+    },
+    {
+      "country": "GB",
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "latitude": 55.95206,
+      "longitude": -3.19648,
       "count": 1
     }
   ]
