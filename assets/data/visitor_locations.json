@@ -2,19 +2,19 @@
   "countries": [
     {
       "country": "US",
-      "count": 136
+      "count": 137
     },
     {
       "country": "JP",
       "count": 6
     },
     {
-      "country": "BD",
+      "country": "SG",
       "count": 2
     },
     {
-      "country": "SG",
-      "count": 1
+      "country": "BD",
+      "count": 2
     },
     {
       "country": "IT",
@@ -48,7 +48,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 19
+      "count": 20
     },
     {
       "country": "US",
@@ -240,6 +240,14 @@
       "region": "Scotland",
       "latitude": 55.95206,
       "longitude": -3.19648,
+      "count": 1
+    },
+    {
+      "country": "SG",
+      "city": "Singapore",
+      "region": "",
+      "latitude": 1.28967,
+      "longitude": 103.85007,
       "count": 1
     }
   ]
