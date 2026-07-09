@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 144
+      "count": 148
     },
     {
       "country": "JP",
@@ -48,7 +48,7 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
-      "count": 21
+      "count": 22
     },
     {
       "country": "US",
@@ -100,6 +100,22 @@
     },
     {
       "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
+      "count": 3
+    },
+    {
+      "country": "US",
+      "city": "Dallas",
+      "region": "Texas",
+      "latitude": 32.78306,
+      "longitude": -96.80667,
+      "count": 3
+    },
+    {
+      "country": "US",
       "city": "Portland",
       "region": "Oregon",
       "latitude": 45.52345,
@@ -124,26 +140,10 @@
     },
     {
       "country": "US",
-      "city": "Council Bluffs",
-      "region": "Iowa",
-      "latitude": 41.26194,
-      "longitude": -95.86083,
-      "count": 2
-    },
-    {
-      "country": "US",
       "city": "Ashburn",
       "region": "Virginia",
       "latitude": 39.04372,
       "longitude": -77.48749,
-      "count": 2
-    },
-    {
-      "country": "US",
-      "city": "Dallas",
-      "region": "Texas",
-      "latitude": 32.78306,
-      "longitude": -96.80667,
       "count": 2
     },
     {
@@ -248,6 +248,14 @@
       "region": "",
       "latitude": 1.28967,
       "longitude": 103.85007,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "New York City",
+      "region": "New York",
+      "latitude": 40.71427,
+      "longitude": -74.00597,
       "count": 1
     }
   ]
