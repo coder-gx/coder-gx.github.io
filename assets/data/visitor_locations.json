@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 143
+      "count": 144
     },
     {
       "country": "JP",
@@ -40,7 +40,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 24
+      "count": 25
     },
     {
       "country": "US",
