@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 152
+      "count": 153
     },
     {
       "country": "JP",
@@ -60,7 +60,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 14
+      "count": 15
     },
     {
       "country": "US",
