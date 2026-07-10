@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 150
+      "count": 151
     },
     {
       "country": "JP",
@@ -18,6 +18,10 @@
     },
     {
       "country": "IT",
+      "count": 1
+    },
+    {
+      "country": "HK",
       "count": 1
     },
     {
@@ -40,7 +44,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 25
+      "count": 26
     },
     {
       "country": "US",
@@ -256,6 +260,14 @@
       "region": "New York",
       "latitude": 40.71427,
       "longitude": -74.00597,
+      "count": 1
+    },
+    {
+      "country": "HK",
+      "city": "Hong Kong",
+      "region": "",
+      "latitude": 22.27832,
+      "longitude": 114.17469,
       "count": 1
     }
   ]
