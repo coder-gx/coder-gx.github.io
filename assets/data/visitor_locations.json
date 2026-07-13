@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 161
+      "count": 164
     },
     {
       "country": "JP",
@@ -60,7 +60,15 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 16
+      "count": 17
+    },
+    {
+      "country": "US",
+      "city": "Los Angeles",
+      "region": "California",
+      "latitude": 34.05223,
+      "longitude": -118.24368,
+      "count": 9
     },
     {
       "country": "US",
@@ -72,14 +80,6 @@
     },
     {
       "country": "US",
-      "city": "Los Angeles",
-      "region": "California",
-      "latitude": 34.05223,
-      "longitude": -118.24368,
-      "count": 8
-    },
-    {
-      "country": "US",
       "city": "Phoenix",
       "region": "Arizona",
       "latitude": 33.44838,
@@ -88,18 +88,18 @@
     },
     {
       "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 4
-    },
-    {
-      "country": "US",
       "city": "Dallas",
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
+      "count": 5
+    },
+    {
+      "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
       "count": 4
     },
     {
