@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 166
+      "count": 168
     },
     {
       "country": "JP",
@@ -84,7 +84,7 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 7
+      "count": 8
     },
     {
       "country": "US",
@@ -276,6 +276,14 @@
       "region": "Texas",
       "latitude": 29.42412,
       "longitude": -98.49363,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Bothell",
+      "region": "Washington",
+      "latitude": 47.76232,
+      "longitude": -122.2054,
       "count": 1
     }
   ]
