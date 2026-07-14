@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 168
+      "count": 169
     },
     {
       "country": "JP",
-      "count": 6
+      "count": 7
     },
     {
       "country": "SG",
@@ -26,6 +26,10 @@
     },
     {
       "country": "GB",
+      "count": 1
+    },
+    {
+      "country": "AU",
       "count": 1
     }
   ],
@@ -52,7 +56,7 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
-      "count": 24
+      "count": 25
     },
     {
       "country": "US",
@@ -103,19 +107,19 @@
       "count": 4
     },
     {
-      "country": "US",
-      "city": "Des Moines",
-      "region": "Iowa",
-      "latitude": 41.60054,
-      "longitude": -93.60911,
-      "count": 3
-    },
-    {
       "country": "JP",
       "city": "Tokyo",
       "region": "Tokyo",
       "latitude": 35.6895,
       "longitude": 139.69171,
+      "count": 4
+    },
+    {
+      "country": "US",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "latitude": 41.60054,
+      "longitude": -93.60911,
       "count": 3
     },
     {
@@ -284,6 +288,14 @@
       "region": "Washington",
       "latitude": 47.76232,
       "longitude": -122.2054,
+      "count": 1
+    },
+    {
+      "country": "AU",
+      "city": "Perth",
+      "region": "Western Australia",
+      "latitude": -31.95224,
+      "longitude": 115.8614,
       "count": 1
     }
   ]
