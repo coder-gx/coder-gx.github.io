@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 169
+      "count": 173
     },
     {
       "country": "JP",
@@ -56,7 +56,7 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
-      "count": 25
+      "count": 26
     },
     {
       "country": "US",
@@ -116,6 +116,14 @@
     },
     {
       "country": "US",
+      "city": "Portland",
+      "region": "Oregon",
+      "latitude": 45.52345,
+      "longitude": -122.67621,
+      "count": 3
+    },
+    {
+      "country": "US",
       "city": "Des Moines",
       "region": "Iowa",
       "latitude": 41.60054,
@@ -132,11 +140,11 @@
     },
     {
       "country": "US",
-      "city": "Portland",
-      "region": "Oregon",
-      "latitude": 45.52345,
-      "longitude": -122.67621,
-      "count": 2
+      "city": "New York City",
+      "region": "New York",
+      "latitude": 40.71427,
+      "longitude": -74.00597,
+      "count": 3
     },
     {
       "country": "BD",
@@ -256,14 +264,6 @@
       "region": "",
       "latitude": 1.28967,
       "longitude": 103.85007,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "New York City",
-      "region": "New York",
-      "latitude": 40.71427,
-      "longitude": -74.00597,
       "count": 1
     },
     {
