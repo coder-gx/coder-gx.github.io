@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 174
+      "count": 175
     },
     {
       "country": "JP",
@@ -107,6 +107,14 @@
       "count": 4
     },
     {
+      "country": "US",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "latitude": 41.60054,
+      "longitude": -93.60911,
+      "count": 4
+    },
+    {
       "country": "JP",
       "city": "Tokyo",
       "region": "Tokyo",
@@ -120,14 +128,6 @@
       "region": "Oregon",
       "latitude": 45.52345,
       "longitude": -122.67621,
-      "count": 3
-    },
-    {
-      "country": "US",
-      "city": "Des Moines",
-      "region": "Iowa",
-      "latitude": 41.60054,
-      "longitude": -93.60911,
       "count": 3
     },
     {
