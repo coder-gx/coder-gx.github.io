@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 176
+      "count": 177
     },
     {
       "country": "JP",
-      "count": 7
+      "count": 8
     },
     {
       "country": "SG",
@@ -56,7 +56,7 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
-      "count": 27
+      "count": 28
     },
     {
       "country": "US",
@@ -155,6 +155,14 @@
       "count": 2
     },
     {
+      "country": "JP",
+      "city": "Monzen-nakachō",
+      "region": "Tokyo",
+      "latitude": 35.6309,
+      "longitude": 139.7917,
+      "count": 2
+    },
+    {
       "country": "US",
       "city": "Ashburn",
       "region": "Virginia",
@@ -184,14 +192,6 @@
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
-      "count": 1
-    },
-    {
-      "country": "JP",
-      "city": "Monzen-nakachō",
-      "region": "Tokyo",
-      "latitude": 35.6309,
-      "longitude": 139.7917,
       "count": 1
     },
     {
