@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 183
+      "count": 184
     },
     {
       "country": "JP",
@@ -96,7 +96,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 5
+      "count": 6
     },
     {
       "country": "JP",
