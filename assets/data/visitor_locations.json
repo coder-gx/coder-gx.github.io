@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 182
+      "count": 183
     },
     {
       "country": "JP",
-      "count": 8
+      "count": 9
     },
     {
       "country": "SG",
@@ -56,7 +56,7 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
-      "count": 29
+      "count": 30
     },
     {
       "country": "US",
@@ -99,6 +99,14 @@
       "count": 5
     },
     {
+      "country": "JP",
+      "city": "Tokyo",
+      "region": "Tokyo",
+      "latitude": 35.6895,
+      "longitude": 139.69171,
+      "count": 5
+    },
+    {
       "country": "US",
       "city": "Dallas",
       "region": "Texas",
@@ -112,14 +120,6 @@
       "region": "Wyoming",
       "latitude": 41.13998,
       "longitude": -104.82025,
-      "count": 4
-    },
-    {
-      "country": "JP",
-      "city": "Tokyo",
-      "region": "Tokyo",
-      "latitude": 35.6895,
-      "longitude": 139.69171,
       "count": 4
     },
     {
