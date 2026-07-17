@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 184
+      "count": 185
     },
     {
       "country": "JP",
@@ -10,7 +10,7 @@
     },
     {
       "country": "SG",
-      "count": 2
+      "count": 3
     },
     {
       "country": "BD",
@@ -56,7 +56,7 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
-      "count": 30
+      "count": 31
     },
     {
       "country": "US",
@@ -171,6 +171,14 @@
       "count": 2
     },
     {
+      "country": "SG",
+      "city": "Jurong West",
+      "region": "",
+      "latitude": 1.35028,
+      "longitude": 103.72278,
+      "count": 2
+    },
+    {
       "country": "IT",
       "city": "Montefiascone",
       "region": "Lazio",
@@ -208,14 +216,6 @@
       "region": "Virginia",
       "latitude": 39.11566,
       "longitude": -77.5636,
-      "count": 1
-    },
-    {
-      "country": "SG",
-      "city": "Jurong West",
-      "region": "",
-      "latitude": 1.35028,
-      "longitude": 103.72278,
       "count": 1
     },
     {
