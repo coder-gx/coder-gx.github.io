@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 187
+      "count": 188
     },
     {
       "country": "JP",
@@ -99,6 +99,14 @@
       "count": 6
     },
     {
+      "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
+      "count": 5
+    },
+    {
       "country": "JP",
       "city": "Tokyo",
       "region": "Tokyo",
@@ -113,14 +121,6 @@
       "latitude": 32.78306,
       "longitude": -96.80667,
       "count": 5
-    },
-    {
-      "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 4
     },
     {
       "country": "US",
