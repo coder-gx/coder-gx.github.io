@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 193
+      "count": 194
     },
     {
       "country": "JP",
@@ -68,19 +68,19 @@
     },
     {
       "country": "US",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "latitude": 33.44838,
+      "longitude": -112.07404,
+      "count": 10
+    },
+    {
+      "country": "US",
       "city": "Los Angeles",
       "region": "California",
       "latitude": 34.05223,
       "longitude": -118.24368,
       "count": 10
-    },
-    {
-      "country": "US",
-      "city": "Phoenix",
-      "region": "Arizona",
-      "latitude": 33.44838,
-      "longitude": -112.07404,
-      "count": 9
     },
     {
       "country": "US",
