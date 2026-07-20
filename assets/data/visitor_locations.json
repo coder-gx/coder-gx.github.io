@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 197
+      "count": 198
     },
     {
       "country": "JP",
@@ -10,7 +10,7 @@
     },
     {
       "country": "SG",
-      "count": 3
+      "count": 5
     },
     {
       "country": "BD",
@@ -48,7 +48,7 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
-      "count": 35
+      "count": 36
     },
     {
       "country": "US",
@@ -123,6 +123,14 @@
       "count": 5
     },
     {
+      "country": "SG",
+      "city": "Jurong West",
+      "region": "",
+      "latitude": 1.35028,
+      "longitude": 103.72278,
+      "count": 4
+    },
+    {
       "country": "US",
       "city": "Portland",
       "region": "Oregon",
@@ -168,14 +176,6 @@
       "region": "Virginia",
       "latitude": 39.04372,
       "longitude": -77.48749,
-      "count": 2
-    },
-    {
-      "country": "SG",
-      "city": "Jurong West",
-      "region": "",
-      "latitude": 1.35028,
-      "longitude": 103.72278,
       "count": 2
     },
     {
