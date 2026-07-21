@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 201
+      "count": 202
     },
     {
       "country": "JP",
@@ -140,6 +140,14 @@
     },
     {
       "country": "US",
+      "city": "Moses Lake",
+      "region": "Washington",
+      "latitude": 47.13014,
+      "longitude": -119.27808,
+      "count": 3
+    },
+    {
+      "country": "US",
       "city": "Council Bluffs",
       "region": "Iowa",
       "latitude": 41.26194,
@@ -153,14 +161,6 @@
       "latitude": 40.71427,
       "longitude": -74.00597,
       "count": 3
-    },
-    {
-      "country": "US",
-      "city": "Moses Lake",
-      "region": "Washington",
-      "latitude": 47.13014,
-      "longitude": -119.27808,
-      "count": 2
     },
     {
       "country": "BD",
