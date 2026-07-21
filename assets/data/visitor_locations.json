@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 202
+      "count": 204
     },
     {
       "country": "JP",
@@ -80,7 +80,7 @@
       "region": "California",
       "latitude": 34.05223,
       "longitude": -118.24368,
-      "count": 10
+      "count": 11
     },
     {
       "country": "US",
@@ -123,6 +123,14 @@
       "count": 5
     },
     {
+      "country": "US",
+      "city": "Moses Lake",
+      "region": "Washington",
+      "latitude": 47.13014,
+      "longitude": -119.27808,
+      "count": 4
+    },
+    {
       "country": "SG",
       "city": "Jurong West",
       "region": "",
@@ -136,14 +144,6 @@
       "region": "Oregon",
       "latitude": 45.52345,
       "longitude": -122.67621,
-      "count": 3
-    },
-    {
-      "country": "US",
-      "city": "Moses Lake",
-      "region": "Washington",
-      "latitude": 47.13014,
-      "longitude": -119.27808,
       "count": 3
     },
     {
