@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 222
+      "count": 223
     },
     {
       "country": "JP",
@@ -36,18 +36,18 @@
   "cities": [
     {
       "country": "US",
-      "city": "Seattle",
-      "region": "Washington",
-      "latitude": 47.60621,
-      "longitude": -122.33207,
-      "count": 45
-    },
-    {
-      "country": "US",
       "city": "Washington",
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
+      "count": 46
+    },
+    {
+      "country": "US",
+      "city": "Seattle",
+      "region": "Washington",
+      "latitude": 47.60621,
+      "longitude": -122.33207,
       "count": 45
     },
     {
