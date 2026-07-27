@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 233
+      "count": 235
     },
     {
       "country": "JP",
@@ -80,7 +80,7 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 13
+      "count": 14
     },
     {
       "country": "US",
@@ -163,6 +163,14 @@
       "count": 3
     },
     {
+      "country": "US",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "latitude": 33.749,
+      "longitude": -84.38798,
+      "count": 2
+    },
+    {
       "country": "BD",
       "city": "Dhaka",
       "region": "Dhaka Division",
@@ -192,14 +200,6 @@
       "region": "Lazio",
       "latitude": 42.54255,
       "longitude": 12.03192,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Atlanta",
-      "region": "Georgia",
-      "latitude": 33.749,
-      "longitude": -84.38798,
       "count": 1
     },
     {
