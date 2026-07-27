@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 235
+      "count": 236
     },
     {
       "country": "JP",
@@ -195,6 +195,14 @@
       "count": 2
     },
     {
+      "country": "US",
+      "city": "San Antonio",
+      "region": "Texas",
+      "latitude": 29.42412,
+      "longitude": -98.49363,
+      "count": 2
+    },
+    {
       "country": "IT",
       "city": "Montefiascone",
       "region": "Lazio",
@@ -272,14 +280,6 @@
       "region": "",
       "latitude": 22.27832,
       "longitude": 114.17469,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "San Antonio",
-      "region": "Texas",
-      "latitude": 29.42412,
-      "longitude": -98.49363,
       "count": 1
     },
     {
