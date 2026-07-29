@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 242
+      "count": 244
     },
     {
       "country": "JP",
@@ -13,15 +13,19 @@
       "count": 5
     },
     {
+      "country": "HK",
+      "count": 2
+    },
+    {
       "country": "BD",
       "count": 2
     },
     {
-      "country": "IT",
+      "country": "KZ",
       "count": 1
     },
     {
-      "country": "HK",
+      "country": "IT",
       "count": 1
     },
     {
@@ -68,19 +72,19 @@
     },
     {
       "country": "US",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "latitude": 33.44838,
+      "longitude": -112.07404,
+      "count": 15
+    },
+    {
+      "country": "US",
       "city": "Los Angeles",
       "region": "California",
       "latitude": 34.05223,
       "longitude": -118.24368,
       "count": 15
-    },
-    {
-      "country": "US",
-      "city": "Phoenix",
-      "region": "Arizona",
-      "latitude": 33.44838,
-      "longitude": -112.07404,
-      "count": 14
     },
     {
       "country": "US",
@@ -195,6 +199,14 @@
       "count": 2
     },
     {
+      "country": "HK",
+      "city": "Hong Kong",
+      "region": "",
+      "latitude": 22.27832,
+      "longitude": 114.17469,
+      "count": 2
+    },
+    {
       "country": "US",
       "city": "San Antonio",
       "region": "Texas",
@@ -275,14 +287,6 @@
       "count": 1
     },
     {
-      "country": "HK",
-      "city": "Hong Kong",
-      "region": "",
-      "latitude": 22.27832,
-      "longitude": 114.17469,
-      "count": 1
-    },
-    {
       "country": "US",
       "city": "Bothell",
       "region": "Washington",
@@ -296,6 +300,22 @@
       "region": "Western Australia",
       "latitude": -31.95224,
       "longitude": 115.8614,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Boardman",
+      "region": "Oregon",
+      "latitude": 45.83986,
+      "longitude": -119.70058,
+      "count": 1
+    },
+    {
+      "country": "KZ",
+      "city": "Astana",
+      "region": "Astana",
+      "latitude": 51.1801,
+      "longitude": 71.44598,
       "count": 1
     }
   ]
