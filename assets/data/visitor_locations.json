@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 253
+      "count": 254
     },
     {
       "country": "JP",
@@ -88,19 +88,19 @@
     },
     {
       "country": "US",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "latitude": 41.60054,
+      "longitude": -93.60911,
+      "count": 13
+    },
+    {
+      "country": "US",
       "city": "Boydton",
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
       "count": 13
-    },
-    {
-      "country": "US",
-      "city": "Des Moines",
-      "region": "Iowa",
-      "latitude": 41.60054,
-      "longitude": -93.60911,
-      "count": 12
     },
     {
       "country": "JP",
