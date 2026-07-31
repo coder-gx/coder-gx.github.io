@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 250
+      "count": 252
     },
     {
       "country": "JP",
-      "count": 12
+      "count": 13
     },
     {
       "country": "SG",
@@ -100,7 +100,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 11
+      "count": 12
     },
     {
       "country": "JP",
@@ -108,7 +108,7 @@
       "region": "Tokyo",
       "latitude": 35.6895,
       "longitude": 139.69171,
-      "count": 8
+      "count": 9
     },
     {
       "country": "US",
@@ -116,7 +116,7 @@
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
-      "count": 7
+      "count": 8
     },
     {
       "country": "US",
