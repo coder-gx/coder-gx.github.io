@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 264
+      "count": 267
     },
     {
       "country": "JP",
@@ -68,7 +68,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 22
+      "count": 23
     },
     {
       "country": "US",
@@ -135,6 +135,14 @@
       "count": 5
     },
     {
+      "country": "US",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "latitude": 39.04372,
+      "longitude": -77.48749,
+      "count": 4
+    },
+    {
       "country": "SG",
       "city": "Jurong West",
       "region": "",
@@ -188,14 +196,6 @@
       "region": "Tokyo",
       "latitude": 35.6309,
       "longitude": 139.7917,
-      "count": 2
-    },
-    {
-      "country": "US",
-      "city": "Ashburn",
-      "region": "Virginia",
-      "latitude": 39.04372,
-      "longitude": -77.48749,
       "count": 2
     },
     {
