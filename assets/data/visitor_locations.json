@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 259
+      "count": 260
     },
     {
       "country": "JP",
@@ -80,19 +80,19 @@
     },
     {
       "country": "US",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "latitude": 41.60054,
+      "longitude": -93.60911,
+      "count": 15
+    },
+    {
+      "country": "US",
       "city": "Los Angeles",
       "region": "California",
       "latitude": 34.05223,
       "longitude": -118.24368,
       "count": 15
-    },
-    {
-      "country": "US",
-      "city": "Des Moines",
-      "region": "Iowa",
-      "latitude": 41.60054,
-      "longitude": -93.60911,
-      "count": 14
     },
     {
       "country": "US",
