@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 268
+      "count": 269
     },
     {
       "country": "JP",
@@ -14,7 +14,7 @@
     },
     {
       "country": "HK",
-      "count": 2
+      "count": 3
     },
     {
       "country": "BD",
@@ -44,7 +44,7 @@
       "region": "Virginia",
       "latitude": 38.71345,
       "longitude": -78.15944,
-      "count": 56
+      "count": 57
     },
     {
       "country": "US",
@@ -175,6 +175,14 @@
       "count": 3
     },
     {
+      "country": "HK",
+      "city": "Hong Kong",
+      "region": "",
+      "latitude": 22.27832,
+      "longitude": 114.17469,
+      "count": 3
+    },
+    {
       "country": "US",
       "city": "Atlanta",
       "region": "Georgia",
@@ -196,14 +204,6 @@
       "region": "Tokyo",
       "latitude": 35.6309,
       "longitude": 139.7917,
-      "count": 2
-    },
-    {
-      "country": "HK",
-      "city": "Hong Kong",
-      "region": "",
-      "latitude": 22.27832,
-      "longitude": 114.17469,
       "count": 2
     },
     {
