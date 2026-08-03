@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 270
+      "count": 272
     },
     {
       "country": "JP",
@@ -116,7 +116,7 @@
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
-      "count": 9
+      "count": 10
     },
     {
       "country": "US",
@@ -128,19 +128,19 @@
     },
     {
       "country": "US",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "latitude": 39.04372,
+      "longitude": -77.48749,
+      "count": 5
+    },
+    {
+      "country": "US",
       "city": "Dallas",
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
       "count": 5
-    },
-    {
-      "country": "US",
-      "city": "Ashburn",
-      "region": "Virginia",
-      "latitude": 39.04372,
-      "longitude": -77.48749,
-      "count": 4
     },
     {
       "country": "SG",
