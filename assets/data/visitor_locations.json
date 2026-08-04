@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 275
+      "count": 277
     },
     {
       "country": "JP",
@@ -124,7 +124,7 @@
       "region": "Wyoming",
       "latitude": 41.13998,
       "longitude": -104.82025,
-      "count": 8
+      "count": 9
     },
     {
       "country": "US",
@@ -316,6 +316,14 @@
       "region": "Astana",
       "latitude": 51.1801,
       "longitude": 71.44598,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Fredericksburg",
+      "region": "Virginia",
+      "latitude": 38.30318,
+      "longitude": -77.46054,
       "count": 1
     }
   ]
