@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 280
+      "count": 281
     },
     {
       "country": "JP",
@@ -324,6 +324,14 @@
       "region": "Virginia",
       "latitude": 38.30318,
       "longitude": -77.46054,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Dulles Town Center",
+      "region": "Virginia",
+      "latitude": 39.03761,
+      "longitude": -77.41582,
       "count": 1
     }
   ]
