@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 281
+      "count": 282
     },
     {
       "country": "JP",
@@ -215,6 +215,14 @@
       "count": 2
     },
     {
+      "country": "US",
+      "city": "Dulles Town Center",
+      "region": "Virginia",
+      "latitude": 39.03761,
+      "longitude": -77.41582,
+      "count": 2
+    },
+    {
       "country": "IT",
       "city": "Montefiascone",
       "region": "Lazio",
@@ -324,14 +332,6 @@
       "region": "Virginia",
       "latitude": 38.30318,
       "longitude": -77.46054,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Dulles Town Center",
-      "region": "Virginia",
-      "latitude": 39.03761,
-      "longitude": -77.41582,
       "count": 1
     }
   ]
