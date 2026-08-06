@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 283
+      "count": 284
     },
     {
       "country": "JP",
-      "count": 15
+      "count": 16
     },
     {
       "country": "SG",
@@ -68,7 +68,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 25
+      "count": 26
     },
     {
       "country": "US",
@@ -108,7 +108,7 @@
       "region": "Tokyo",
       "latitude": 35.6895,
       "longitude": 139.69171,
-      "count": 11
+      "count": 12
     },
     {
       "country": "US",
