@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 285
+      "count": 287
     },
     {
       "country": "JP",
@@ -33,6 +33,10 @@
       "count": 1
     },
     {
+      "country": "DE",
+      "count": 1
+    },
+    {
       "country": "AU",
       "count": 1
     }
@@ -60,7 +64,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 41
+      "count": 42
     },
     {
       "country": "US",
@@ -132,7 +136,7 @@
       "region": "Virginia",
       "latitude": 39.04372,
       "longitude": -77.48749,
-      "count": 5
+      "count": 6
     },
     {
       "country": "US",
@@ -332,6 +336,14 @@
       "region": "Virginia",
       "latitude": 38.30318,
       "longitude": -77.46054,
+      "count": 1
+    },
+    {
+      "country": "DE",
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "latitude": 50.11552,
+      "longitude": 8.68417,
       "count": 1
     }
   ]
