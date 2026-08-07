@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 287
+      "count": 288
     },
     {
       "country": "JP",
@@ -116,18 +116,18 @@
     },
     {
       "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 10
-    },
-    {
-      "country": "US",
       "city": "Moses Lake",
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
+      "count": 11
+    },
+    {
+      "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
       "count": 10
     },
     {
