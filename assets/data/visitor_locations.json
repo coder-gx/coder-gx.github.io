@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 291
+      "count": 292
     },
     {
       "country": "JP",
@@ -99,19 +99,19 @@
       "count": 15
     },
     {
-      "country": "JP",
-      "city": "Tokyo",
-      "region": "Tokyo",
-      "latitude": 35.6895,
-      "longitude": 139.69171,
-      "count": 14
-    },
-    {
       "country": "US",
       "city": "Boydton",
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
+      "count": 15
+    },
+    {
+      "country": "JP",
+      "city": "Tokyo",
+      "region": "Tokyo",
+      "latitude": 35.6895,
+      "longitude": 139.69171,
       "count": 14
     },
     {
