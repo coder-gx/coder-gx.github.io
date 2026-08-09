@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 296
+      "count": 297
     },
     {
       "country": "JP",
@@ -156,6 +156,14 @@
     },
     {
       "country": "US",
+      "city": "Dulles Town Center",
+      "region": "Virginia",
+      "latitude": 39.03761,
+      "longitude": -77.41582,
+      "count": 4
+    },
+    {
+      "country": "US",
       "city": "Portland",
       "region": "Oregon",
       "latitude": 45.52345,
@@ -184,14 +192,6 @@
       "region": "",
       "latitude": 22.27832,
       "longitude": 114.17469,
-      "count": 3
-    },
-    {
-      "country": "US",
-      "city": "Dulles Town Center",
-      "region": "Virginia",
-      "latitude": 39.03761,
-      "longitude": -77.41582,
       "count": 3
     },
     {
