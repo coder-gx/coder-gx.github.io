@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 295
+      "count": 296
     },
     {
       "country": "JP",
@@ -128,7 +128,7 @@
       "region": "Wyoming",
       "latitude": 41.13998,
       "longitude": -104.82025,
-      "count": 10
+      "count": 11
     },
     {
       "country": "US",
