@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 298
+      "count": 299
     },
     {
       "country": "JP",
@@ -147,19 +147,19 @@
       "count": 5
     },
     {
-      "country": "SG",
-      "city": "Jurong West",
-      "region": "",
-      "latitude": 1.35028,
-      "longitude": 103.72278,
-      "count": 4
-    },
-    {
       "country": "US",
       "city": "Dulles Town Center",
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
+      "count": 5
+    },
+    {
+      "country": "SG",
+      "city": "Jurong West",
+      "region": "",
+      "latitude": 1.35028,
+      "longitude": 103.72278,
       "count": 4
     },
     {
