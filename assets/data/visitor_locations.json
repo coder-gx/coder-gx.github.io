@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 299
+      "count": 300
     },
     {
       "country": "JP",
@@ -140,18 +140,18 @@
     },
     {
       "country": "US",
-      "city": "Dallas",
-      "region": "Texas",
-      "latitude": 32.78306,
-      "longitude": -96.80667,
-      "count": 5
-    },
-    {
-      "country": "US",
       "city": "Dulles Town Center",
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
+      "count": 6
+    },
+    {
+      "country": "US",
+      "city": "Dallas",
+      "region": "Texas",
+      "latitude": 32.78306,
+      "longitude": -96.80667,
       "count": 5
     },
     {
