@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 309
+      "count": 310
     },
     {
       "country": "JP",
@@ -120,7 +120,7 @@
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
-      "count": 13
+      "count": 14
     },
     {
       "country": "US",
