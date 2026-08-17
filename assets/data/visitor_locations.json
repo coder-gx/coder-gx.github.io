@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 327
+      "count": 328
     },
     {
       "country": "JP",
@@ -10,7 +10,7 @@
     },
     {
       "country": "SG",
-      "count": 5
+      "count": 6
     },
     {
       "country": "HK",
@@ -92,7 +92,7 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 19
+      "count": 20
     },
     {
       "country": "US",
@@ -223,6 +223,14 @@
       "count": 2
     },
     {
+      "country": "SG",
+      "city": "Singapore",
+      "region": "",
+      "latitude": 1.28967,
+      "longitude": 103.85007,
+      "count": 2
+    },
+    {
       "country": "US",
       "city": "San Antonio",
       "region": "Texas",
@@ -292,14 +300,6 @@
       "region": "Scotland",
       "latitude": 55.95206,
       "longitude": -3.19648,
-      "count": 1
-    },
-    {
-      "country": "SG",
-      "city": "Singapore",
-      "region": "",
-      "latitude": 1.28967,
-      "longitude": 103.85007,
       "count": 1
     },
     {
