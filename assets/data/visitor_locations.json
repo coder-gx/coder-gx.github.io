@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 330
+      "count": 331
     },
     {
       "country": "JP",
@@ -13,12 +13,12 @@
       "count": 6
     },
     {
-      "country": "HK",
+      "country": "TW",
       "count": 3
     },
     {
-      "country": "TW",
-      "count": 2
+      "country": "HK",
+      "count": 3
     },
     {
       "country": "BD",
@@ -100,7 +100,7 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
-      "count": 18
+      "count": 19
     },
     {
       "country": "US",
@@ -239,6 +239,14 @@
       "count": 2
     },
     {
+      "country": "TW",
+      "city": "Taipei",
+      "region": "Taiwan",
+      "latitude": 25.05306,
+      "longitude": 121.52639,
+      "count": 2
+    },
+    {
       "country": "IT",
       "city": "Montefiascone",
       "region": "Lazio",
@@ -348,14 +356,6 @@
       "region": "Hesse",
       "latitude": 50.11552,
       "longitude": 8.68417,
-      "count": 1
-    },
-    {
-      "country": "TW",
-      "city": "Taipei",
-      "region": "Taiwan",
-      "latitude": 25.05306,
-      "longitude": 121.52639,
       "count": 1
     },
     {
