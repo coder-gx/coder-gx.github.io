@@ -25,6 +25,10 @@
       "count": 2
     },
     {
+      "country": "MX",
+      "count": 1
+    },
+    {
       "country": "KZ",
       "count": 1
     },
@@ -364,6 +368,14 @@
       "region": "Taiwan",
       "latitude": 24.1469,
       "longitude": 120.6839,
+      "count": 1
+    },
+    {
+      "country": "MX",
+      "city": "Santiago de Querétaro",
+      "region": "Querétaro",
+      "latitude": 20.58806,
+      "longitude": -100.38806,
       "count": 1
     }
   ]
