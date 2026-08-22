@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 346
+      "count": 348
     },
     {
       "country": "JP",
@@ -80,7 +80,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 31
+      "count": 32
     },
     {
       "country": "US",
@@ -376,6 +376,14 @@
       "region": "Querétaro",
       "latitude": 20.58806,
       "longitude": -100.38806,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Cupertino",
+      "region": "California",
+      "latitude": 37.323,
+      "longitude": -122.03218,
       "count": 1
     }
   ]
