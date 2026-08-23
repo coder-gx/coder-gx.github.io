@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 352
+      "count": 353
     },
     {
       "country": "JP",
@@ -14,7 +14,7 @@
     },
     {
       "country": "TW",
-      "count": 4
+      "count": 6
     },
     {
       "country": "HK",
@@ -116,6 +116,14 @@
     },
     {
       "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
+      "count": 15
+    },
+    {
+      "country": "US",
       "city": "Los Angeles",
       "region": "California",
       "latitude": 34.05223,
@@ -129,14 +137,6 @@
       "latitude": 39.03761,
       "longitude": -77.41582,
       "count": 15
-    },
-    {
-      "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 14
     },
     {
       "country": "JP",
@@ -160,6 +160,14 @@
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
+      "count": 5
+    },
+    {
+      "country": "TW",
+      "city": "Taipei",
+      "region": "Taiwan",
+      "latitude": 25.05306,
+      "longitude": 121.52639,
       "count": 5
     },
     {
@@ -208,14 +216,6 @@
       "region": "",
       "latitude": 22.27832,
       "longitude": 114.17469,
-      "count": 3
-    },
-    {
-      "country": "TW",
-      "city": "Taipei",
-      "region": "Taiwan",
-      "latitude": 25.05306,
-      "longitude": 121.52639,
       "count": 3
     },
     {
