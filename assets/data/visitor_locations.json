@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 354
+      "count": 355
     },
     {
       "country": "JP",
@@ -116,6 +116,14 @@
     },
     {
       "country": "US",
+      "city": "Dulles Town Center",
+      "region": "Virginia",
+      "latitude": 39.03761,
+      "longitude": -77.41582,
+      "count": 16
+    },
+    {
+      "country": "US",
       "city": "Cheyenne",
       "region": "Wyoming",
       "latitude": 41.13998,
@@ -128,14 +136,6 @@
       "region": "California",
       "latitude": 34.05223,
       "longitude": -118.24368,
-      "count": 15
-    },
-    {
-      "country": "US",
-      "city": "Dulles Town Center",
-      "region": "Virginia",
-      "latitude": 39.03761,
-      "longitude": -77.41582,
       "count": 15
     },
     {
