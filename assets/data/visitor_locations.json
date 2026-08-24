@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 357
+      "count": 358
     },
     {
       "country": "JP",
@@ -92,18 +92,18 @@
     },
     {
       "country": "US",
-      "city": "Phoenix",
-      "region": "Arizona",
-      "latitude": 33.44838,
-      "longitude": -112.07404,
-      "count": 22
-    },
-    {
-      "country": "US",
       "city": "Moses Lake",
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
+      "count": 23
+    },
+    {
+      "country": "US",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "latitude": 33.44838,
+      "longitude": -112.07404,
       "count": 22
     },
     {
