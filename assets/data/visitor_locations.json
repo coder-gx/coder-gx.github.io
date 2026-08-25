@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 361
+      "count": 363
     },
     {
       "country": "JP",
@@ -92,18 +92,18 @@
     },
     {
       "country": "US",
-      "city": "Phoenix",
-      "region": "Arizona",
-      "latitude": 33.44838,
-      "longitude": -112.07404,
-      "count": 23
-    },
-    {
-      "country": "US",
       "city": "Moses Lake",
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
+      "count": 24
+    },
+    {
+      "country": "US",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "latitude": 33.44838,
+      "longitude": -112.07404,
       "count": 23
     },
     {
@@ -124,19 +124,19 @@
     },
     {
       "country": "US",
+      "city": "Los Angeles",
+      "region": "California",
+      "latitude": 34.05223,
+      "longitude": -118.24368,
+      "count": 16
+    },
+    {
+      "country": "US",
       "city": "Dulles Town Center",
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
       "count": 16
-    },
-    {
-      "country": "US",
-      "city": "Los Angeles",
-      "region": "California",
-      "latitude": 34.05223,
-      "longitude": -118.24368,
-      "count": 15
     },
     {
       "country": "JP",
