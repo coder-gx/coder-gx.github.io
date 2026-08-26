@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 364
+      "count": 365
     },
     {
       "country": "JP",
@@ -23,6 +23,10 @@
     {
       "country": "BD",
       "count": 2
+    },
+    {
+      "country": "RU",
+      "count": 1
     },
     {
       "country": "MX",
@@ -112,7 +116,7 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
-      "count": 21
+      "count": 22
     },
     {
       "country": "US",
@@ -392,6 +396,14 @@
       "region": "Indiana",
       "latitude": 40.4167,
       "longitude": -86.87529,
+      "count": 1
+    },
+    {
+      "country": "RU",
+      "city": "Isetskoye",
+      "region": "Tyumen Oblast",
+      "latitude": 56.48315,
+      "longitude": 65.31603,
       "count": 1
     }
   ]
