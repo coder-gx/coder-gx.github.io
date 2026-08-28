@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 370
+      "count": 371
     },
     {
       "country": "JP",
@@ -10,7 +10,7 @@
     },
     {
       "country": "SG",
-      "count": 8
+      "count": 9
     },
     {
       "country": "TW",
@@ -124,7 +124,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 18
+      "count": 19
     },
     {
       "country": "US",
@@ -167,6 +167,14 @@
       "count": 5
     },
     {
+      "country": "SG",
+      "city": "Singapore",
+      "region": "",
+      "latitude": 1.28967,
+      "longitude": 103.85007,
+      "count": 5
+    },
+    {
       "country": "TW",
       "city": "Taipei",
       "region": "Taiwan",
@@ -180,14 +188,6 @@
       "region": "",
       "latitude": 1.35028,
       "longitude": 103.72278,
-      "count": 4
-    },
-    {
-      "country": "SG",
-      "city": "Singapore",
-      "region": "",
-      "latitude": 1.28967,
-      "longitude": 103.85007,
       "count": 4
     },
     {
