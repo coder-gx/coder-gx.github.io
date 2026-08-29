@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 372
+      "count": 374
     },
     {
       "country": "JP",
@@ -132,7 +132,7 @@
       "region": "Wyoming",
       "latitude": 41.13998,
       "longitude": -104.82025,
-      "count": 17
+      "count": 18
     },
     {
       "country": "US",
@@ -404,6 +404,14 @@
       "region": "Tyumen Oblast",
       "latitude": 56.48315,
       "longitude": 65.31603,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Oklahoma City",
+      "region": "Oklahoma",
+      "latitude": 35.46756,
+      "longitude": -97.51643,
       "count": 1
     }
   ]
