@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 378
+      "count": 380
     },
     {
       "country": "JP",
@@ -124,7 +124,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 21
+      "count": 22
     },
     {
       "country": "US",
@@ -412,6 +412,14 @@
       "region": "Oklahoma",
       "latitude": 35.46756,
       "longitude": -97.51643,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Floris",
+      "region": "Virginia",
+      "latitude": 38.93706,
+      "longitude": -77.41277,
       "count": 1
     }
   ]
