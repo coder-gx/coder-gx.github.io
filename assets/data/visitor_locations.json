@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 380
+      "count": 381
     },
     {
       "country": "JP",
@@ -104,18 +104,18 @@
     },
     {
       "country": "US",
-      "city": "Phoenix",
-      "region": "Arizona",
-      "latitude": 33.44838,
-      "longitude": -112.07404,
-      "count": 23
-    },
-    {
-      "country": "US",
       "city": "Boydton",
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
+      "count": 24
+    },
+    {
+      "country": "US",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "latitude": 33.44838,
+      "longitude": -112.07404,
       "count": 23
     },
     {
