@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 390
+      "count": 391
     },
     {
       "country": "JP",
@@ -112,18 +112,18 @@
     },
     {
       "country": "US",
-      "city": "Moses Lake",
-      "region": "Washington",
-      "latitude": 47.13014,
-      "longitude": -119.27808,
-      "count": 24
-    },
-    {
-      "country": "US",
       "city": "Dulles Town Center",
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
+      "count": 25
+    },
+    {
+      "country": "US",
+      "city": "Moses Lake",
+      "region": "Washington",
+      "latitude": 47.13014,
+      "longitude": -119.27808,
       "count": 24
     },
     {
