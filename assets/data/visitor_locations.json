@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 391
+      "count": 393
     },
     {
       "country": "JP",
@@ -96,6 +96,14 @@
     },
     {
       "country": "US",
+      "city": "Dulles Town Center",
+      "region": "Virginia",
+      "latitude": 39.03761,
+      "longitude": -77.41582,
+      "count": 26
+    },
+    {
+      "country": "US",
       "city": "Phoenix",
       "region": "Arizona",
       "latitude": 33.44838,
@@ -108,14 +116,6 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
-      "count": 25
-    },
-    {
-      "country": "US",
-      "city": "Dulles Town Center",
-      "region": "Virginia",
-      "latitude": 39.03761,
-      "longitude": -77.41582,
       "count": 25
     },
     {
@@ -420,6 +420,14 @@
       "region": "Virginia",
       "latitude": 38.93706,
       "longitude": -77.41277,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Washington",
+      "region": "District of Columbia",
+      "latitude": 38.89511,
+      "longitude": -77.03637,
       "count": 1
     }
   ]
