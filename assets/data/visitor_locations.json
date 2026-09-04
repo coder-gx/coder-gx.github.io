@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 399
+      "count": 401
     },
     {
       "country": "JP",
@@ -100,18 +100,18 @@
     },
     {
       "country": "US",
-      "city": "Phoenix",
-      "region": "Arizona",
-      "latitude": 33.44838,
-      "longitude": -112.07404,
-      "count": 27
-    },
-    {
-      "country": "US",
       "city": "Dulles Town Center",
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
+      "count": 28
+    },
+    {
+      "country": "US",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "latitude": 33.44838,
+      "longitude": -112.07404,
       "count": 27
     },
     {
@@ -160,7 +160,7 @@
       "region": "Virginia",
       "latitude": 39.04372,
       "longitude": -77.48749,
-      "count": 6
+      "count": 7
     },
     {
       "country": "US",
