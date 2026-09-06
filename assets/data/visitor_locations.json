@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 406
+      "count": 407
     },
     {
       "country": "JP",
@@ -92,18 +92,18 @@
     },
     {
       "country": "US",
-      "city": "Des Moines",
-      "region": "Iowa",
-      "latitude": 41.60054,
-      "longitude": -93.60911,
-      "count": 31
-    },
-    {
-      "country": "US",
       "city": "Dulles Town Center",
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
+      "count": 32
+    },
+    {
+      "country": "US",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "latitude": 41.60054,
+      "longitude": -93.60911,
       "count": 31
     },
     {
