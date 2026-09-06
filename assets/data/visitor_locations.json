@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 408
+      "count": 410
     },
     {
       "country": "JP",
@@ -72,7 +72,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 54
+      "count": 55
     },
     {
       "country": "US",
@@ -440,6 +440,14 @@
       "region": "Leinster",
       "latitude": 53.33306,
       "longitude": -6.24889,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Pittsburgh",
+      "region": "Pennsylvania",
+      "latitude": 40.44062,
+      "longitude": -79.99589,
       "count": 1
     }
   ]
