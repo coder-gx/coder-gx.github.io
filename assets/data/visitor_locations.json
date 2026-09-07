@@ -53,6 +53,10 @@
       "count": 1
     },
     {
+      "country": "CL",
+      "count": 1
+    },
+    {
       "country": "AU",
       "count": 1
     }
@@ -448,6 +452,14 @@
       "region": "Pennsylvania",
       "latitude": 40.44062,
       "longitude": -79.99589,
+      "count": 1
+    },
+    {
+      "country": "CL",
+      "city": "Santiago",
+      "region": "Santiago Metropolitan",
+      "latitude": -33.45694,
+      "longitude": -70.64827,
       "count": 1
     }
   ]
