@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 414
+      "count": 415
     },
     {
       "country": "JP",
@@ -120,19 +120,19 @@
     },
     {
       "country": "US",
+      "city": "Moses Lake",
+      "region": "Washington",
+      "latitude": 47.13014,
+      "longitude": -119.27808,
+      "count": 26
+    },
+    {
+      "country": "US",
       "city": "Boydton",
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
       "count": 26
-    },
-    {
-      "country": "US",
-      "city": "Moses Lake",
-      "region": "Washington",
-      "latitude": 47.13014,
-      "longitude": -119.27808,
-      "count": 25
     },
     {
       "country": "US",
