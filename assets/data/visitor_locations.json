@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 415
+      "count": 416
     },
     {
       "country": "JP",
@@ -88,18 +88,18 @@
     },
     {
       "country": "US",
-      "city": "Chicago",
-      "region": "Illinois",
-      "latitude": 41.85003,
-      "longitude": -87.65005,
-      "count": 33
-    },
-    {
-      "country": "US",
       "city": "Dulles Town Center",
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
+      "count": 34
+    },
+    {
+      "country": "US",
+      "city": "Chicago",
+      "region": "Illinois",
+      "latitude": 41.85003,
+      "longitude": -87.65005,
       "count": 33
     },
     {
