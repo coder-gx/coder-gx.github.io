@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 421
+      "count": 422
     },
     {
       "country": "JP",
@@ -18,7 +18,7 @@
     },
     {
       "country": "HK",
-      "count": 3
+      "count": 4
     },
     {
       "country": "BD",
@@ -108,7 +108,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 31
+      "count": 32
     },
     {
       "country": "US",
@@ -460,6 +460,14 @@
       "region": "Santiago Metropolitan",
       "latitude": -33.45694,
       "longitude": -70.64827,
+      "count": 1
+    },
+    {
+      "country": "HK",
+      "city": "Tung Chung",
+      "region": "",
+      "latitude": 22.28783,
+      "longitude": 113.94243,
       "count": 1
     }
   ]
