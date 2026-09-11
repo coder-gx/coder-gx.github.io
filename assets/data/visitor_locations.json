@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 425
+      "count": 427
     },
     {
       "country": "JP",
@@ -108,7 +108,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 32
+      "count": 33
     },
     {
       "country": "US",
@@ -200,6 +200,14 @@
     },
     {
       "country": "US",
+      "city": "New York City",
+      "region": "New York",
+      "latitude": 40.71427,
+      "longitude": -74.00597,
+      "count": 4
+    },
+    {
+      "country": "US",
       "city": "Portland",
       "region": "Oregon",
       "latitude": 45.52345,
@@ -212,14 +220,6 @@
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
-      "count": 3
-    },
-    {
-      "country": "US",
-      "city": "New York City",
-      "region": "New York",
-      "latitude": 40.71427,
-      "longitude": -74.00597,
       "count": 3
     },
     {
