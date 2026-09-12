@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 429
+      "count": 432
     },
     {
       "country": "JP",
@@ -64,18 +64,18 @@
   "cities": [
     {
       "country": "US",
-      "city": "Washington",
-      "region": "Virginia",
-      "latitude": 38.71345,
-      "longitude": -78.15944,
-      "count": 57
-    },
-    {
-      "country": "US",
       "city": "San Jose",
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
+      "count": 59
+    },
+    {
+      "country": "US",
+      "city": "Washington",
+      "region": "Virginia",
+      "latitude": 38.71345,
+      "longitude": -78.15944,
       "count": 57
     },
     {
@@ -108,7 +108,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 35
+      "count": 36
     },
     {
       "country": "US",
