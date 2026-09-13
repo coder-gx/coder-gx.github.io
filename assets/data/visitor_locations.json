@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 437
+      "count": 438
     },
     {
       "country": "JP",
@@ -14,11 +14,11 @@
     },
     {
       "country": "TW",
-      "count": 6
+      "count": 8
     },
     {
       "country": "HK",
-      "count": 4
+      "count": 6
     },
     {
       "country": "BD",
@@ -124,7 +124,7 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
-      "count": 28
+      "count": 29
     },
     {
       "country": "US",
@@ -167,6 +167,14 @@
       "count": 7
     },
     {
+      "country": "TW",
+      "city": "Taipei",
+      "region": "Taiwan",
+      "latitude": 25.05306,
+      "longitude": 121.52639,
+      "count": 7
+    },
+    {
       "country": "US",
       "city": "Dallas",
       "region": "Texas",
@@ -183,11 +191,11 @@
       "count": 5
     },
     {
-      "country": "TW",
-      "city": "Taipei",
-      "region": "Taiwan",
-      "latitude": 25.05306,
-      "longitude": 121.52639,
+      "country": "HK",
+      "city": "Hong Kong",
+      "region": "",
+      "latitude": 22.27832,
+      "longitude": 114.17469,
       "count": 5
     },
     {
@@ -220,14 +228,6 @@
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
-      "count": 3
-    },
-    {
-      "country": "HK",
-      "city": "Hong Kong",
-      "region": "",
-      "latitude": 22.27832,
-      "longitude": 114.17469,
       "count": 3
     },
     {
