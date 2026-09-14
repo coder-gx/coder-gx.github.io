@@ -2,19 +2,19 @@
   "countries": [
     {
       "country": "US",
-      "count": 440
+      "count": 442
     },
     {
       "country": "JP",
       "count": 18
     },
     {
-      "country": "SG",
-      "count": 9
+      "country": "TW",
+      "count": 10
     },
     {
-      "country": "TW",
-      "count": 8
+      "country": "SG",
+      "count": 9
     },
     {
       "country": "HK",
@@ -92,7 +92,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 38
+      "count": 39
     },
     {
       "country": "US",
@@ -159,19 +159,19 @@
       "count": 14
     },
     {
-      "country": "US",
-      "city": "Ashburn",
-      "region": "Virginia",
-      "latitude": 39.04372,
-      "longitude": -77.48749,
-      "count": 7
-    },
-    {
       "country": "TW",
       "city": "Taipei",
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
+      "count": 9
+    },
+    {
+      "country": "US",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "latitude": 39.04372,
+      "longitude": -77.48749,
       "count": 7
     },
     {
@@ -468,6 +468,14 @@
       "region": "",
       "latitude": 22.28783,
       "longitude": 113.94243,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Palo Alto",
+      "region": "California",
+      "latitude": 37.44188,
+      "longitude": -122.14302,
       "count": 1
     }
   ]
