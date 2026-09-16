@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 447
+      "count": 448
     },
     {
       "country": "JP",
@@ -14,7 +14,7 @@
     },
     {
       "country": "SG",
-      "count": 10
+      "count": 11
     },
     {
       "country": "HK",
@@ -96,18 +96,18 @@
     },
     {
       "country": "US",
-      "city": "Chicago",
-      "region": "Illinois",
-      "latitude": 41.85003,
-      "longitude": -87.65005,
-      "count": 37
-    },
-    {
-      "country": "US",
       "city": "Des Moines",
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
+      "count": 38
+    },
+    {
+      "country": "US",
+      "city": "Chicago",
+      "region": "Illinois",
+      "latitude": 41.85003,
+      "longitude": -87.65005,
       "count": 37
     },
     {
@@ -180,7 +180,7 @@
       "region": "",
       "latitude": 1.28967,
       "longitude": 103.85007,
-      "count": 6
+      "count": 7
     },
     {
       "country": "US",
