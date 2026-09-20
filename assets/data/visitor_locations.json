@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 465
+      "count": 466
     },
     {
       "country": "JP",
@@ -92,7 +92,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 43
+      "count": 44
     },
     {
       "country": "US",
