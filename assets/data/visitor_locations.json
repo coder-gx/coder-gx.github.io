@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 482
+      "count": 484
     },
     {
       "country": "JP",
@@ -124,19 +124,19 @@
     },
     {
       "country": "US",
+      "city": "Moses Lake",
+      "region": "Washington",
+      "latitude": 47.13014,
+      "longitude": -119.27808,
+      "count": 31
+    },
+    {
+      "country": "US",
       "city": "Boydton",
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
       "count": 31
-    },
-    {
-      "country": "US",
-      "city": "Moses Lake",
-      "region": "Washington",
-      "latitude": 47.13014,
-      "longitude": -119.27808,
-      "count": 30
     },
     {
       "country": "US",
@@ -228,19 +228,19 @@
     },
     {
       "country": "US",
+      "city": "Atlanta",
+      "region": "Georgia",
+      "latitude": 33.749,
+      "longitude": -84.38798,
+      "count": 3
+    },
+    {
+      "country": "US",
       "city": "Council Bluffs",
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
       "count": 3
-    },
-    {
-      "country": "US",
-      "city": "Atlanta",
-      "region": "Georgia",
-      "latitude": 33.749,
-      "longitude": -84.38798,
-      "count": 2
     },
     {
       "country": "BD",
