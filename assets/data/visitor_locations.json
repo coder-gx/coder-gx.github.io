@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 479
+      "count": 480
     },
     {
       "country": "JP",
@@ -46,6 +46,10 @@
     },
     {
       "country": "GB",
+      "count": 1
+    },
+    {
+      "country": "ES",
       "count": 1
     },
     {
@@ -132,7 +136,7 @@
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
-      "count": 28
+      "count": 29
     },
     {
       "country": "US",
@@ -476,6 +480,14 @@
       "region": "California",
       "latitude": 37.44188,
       "longitude": -122.14302,
+      "count": 1
+    },
+    {
+      "country": "ES",
+      "city": "A Coruña",
+      "region": "Galicia",
+      "latitude": 43.37135,
+      "longitude": -8.396,
       "count": 1
     }
   ]
