@@ -2,15 +2,15 @@
   "countries": [
     {
       "country": "US",
-      "count": 484
+      "count": 485
+    },
+    {
+      "country": "TW",
+      "count": 18
     },
     {
       "country": "JP",
       "count": 18
-    },
-    {
-      "country": "TW",
-      "count": 12
     },
     {
       "country": "SG",
@@ -124,18 +124,18 @@
     },
     {
       "country": "US",
-      "city": "Moses Lake",
-      "region": "Washington",
-      "latitude": 47.13014,
-      "longitude": -119.27808,
-      "count": 31
-    },
-    {
-      "country": "US",
       "city": "Boydton",
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
+      "count": 32
+    },
+    {
+      "country": "US",
+      "city": "Moses Lake",
+      "region": "Washington",
+      "latitude": 47.13014,
+      "longitude": -119.27808,
       "count": 31
     },
     {
@@ -145,6 +145,14 @@
       "latitude": 41.13998,
       "longitude": -104.82025,
       "count": 27
+    },
+    {
+      "country": "TW",
+      "city": "Taipei",
+      "region": "Taiwan",
+      "latitude": 25.05306,
+      "longitude": 121.52639,
+      "count": 17
     },
     {
       "country": "US",
@@ -161,14 +169,6 @@
       "latitude": 35.6895,
       "longitude": 139.69171,
       "count": 14
-    },
-    {
-      "country": "TW",
-      "city": "Taipei",
-      "region": "Taiwan",
-      "latitude": 25.05306,
-      "longitude": 121.52639,
-      "count": 11
     },
     {
       "country": "US",
