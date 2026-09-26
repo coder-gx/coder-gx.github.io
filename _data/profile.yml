@@ -21,7 +21,7 @@ twitter: XanderD54234753 # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi! I am Xuan Gong (<b>Xander Gong</b>), a first-year Ph.D. student in the School of Computer Science at Shanghai Jiao Tong University.
+    Hi! I am Xuan Gong (<b>Xander Gong</b>), a second-year Ph.D. student in the School of Computer Science at Shanghai Jiao Tong University.
   </p>
   <p>
     My research focuses on the <b>optimization</b> and <b>alignment</b> of foundation models, with an emphasis on improving the reasoning, factuality, agentic capabilities, safety, and science applications of <b>large language models</b> and <b>vision-language models</b> (maybe world models in the future).
@@ -32,8 +32,9 @@ short_bio: >-
 
 research_interests:
 - Vision Language Model
-- Machine Learning
+- Machine learning (Optimization)
 - LLM Agent
+- AI4Sci
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
