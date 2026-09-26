@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 489
+      "count": 490
     },
     {
       "country": "TW",
-      "count": 18
+      "count": 43
     },
     {
       "country": "JP",
@@ -115,6 +115,14 @@
       "count": 42
     },
     {
+      "country": "TW",
+      "city": "Taipei",
+      "region": "Taiwan",
+      "latitude": 25.05306,
+      "longitude": 121.52639,
+      "count": 42
+    },
+    {
       "country": "US",
       "city": "Phoenix",
       "region": "Arizona",
@@ -132,27 +140,19 @@
     },
     {
       "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
+      "count": 31
+    },
+    {
+      "country": "US",
       "city": "Moses Lake",
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
       "count": 31
-    },
-    {
-      "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 30
-    },
-    {
-      "country": "TW",
-      "city": "Taipei",
-      "region": "Taiwan",
-      "latitude": 25.05306,
-      "longitude": 121.52639,
-      "count": 17
     },
     {
       "country": "US",
