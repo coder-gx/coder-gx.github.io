@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 495
+      "count": 496
     },
     {
       "country": "TW",
@@ -84,18 +84,18 @@
     },
     {
       "country": "US",
-      "city": "Seattle",
-      "region": "Washington",
-      "latitude": 47.60621,
-      "longitude": -122.33207,
-      "count": 47
-    },
-    {
-      "country": "US",
       "city": "Des Moines",
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
+      "count": 48
+    },
+    {
+      "country": "US",
+      "city": "Seattle",
+      "region": "Washington",
+      "latitude": 47.60621,
+      "longitude": -122.33207,
       "count": 47
     },
     {
