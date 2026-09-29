@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 500
+      "count": 501
     },
     {
       "country": "TW",
@@ -115,20 +115,20 @@
       "count": 42
     },
     {
+      "country": "US",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "latitude": 33.44838,
+      "longitude": -112.07404,
+      "count": 42
+    },
+    {
       "country": "TW",
       "city": "Taipei",
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
       "count": 42
-    },
-    {
-      "country": "US",
-      "city": "Phoenix",
-      "region": "Arizona",
-      "latitude": 33.44838,
-      "longitude": -112.07404,
-      "count": 41
     },
     {
       "country": "US",
