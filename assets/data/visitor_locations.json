@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 504
+      "count": 505
     },
     {
       "country": "TW",
@@ -14,7 +14,7 @@
     },
     {
       "country": "SG",
-      "count": 13
+      "count": 14
     },
     {
       "country": "HK",
@@ -144,7 +144,7 @@
       "region": "Wyoming",
       "latitude": 41.13998,
       "longitude": -104.82025,
-      "count": 31
+      "count": 32
     },
     {
       "country": "US",
@@ -176,7 +176,7 @@
       "region": "",
       "latitude": 1.28967,
       "longitude": 103.85007,
-      "count": 9
+      "count": 10
     },
     {
       "country": "US",
