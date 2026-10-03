@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 513
+      "count": 514
     },
     {
       "country": "TW",
@@ -132,18 +132,18 @@
     },
     {
       "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 33
-    },
-    {
-      "country": "US",
       "city": "Boydton",
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
+      "count": 34
+    },
+    {
+      "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
       "count": 33
     },
     {
