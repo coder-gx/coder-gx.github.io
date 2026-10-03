@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 512
+      "count": 513
     },
     {
       "country": "TW",
@@ -88,7 +88,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 51
+      "count": 52
     },
     {
       "country": "US",
