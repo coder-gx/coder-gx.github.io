@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 523
+      "count": 527
     },
     {
       "country": "TW",
@@ -14,7 +14,7 @@
     },
     {
       "country": "SG",
-      "count": 14
+      "count": 15
     },
     {
       "country": "HK",
@@ -34,6 +34,10 @@
     },
     {
       "country": "KZ",
+      "count": 1
+    },
+    {
+      "country": "KR",
       "count": 1
     },
     {
@@ -144,7 +148,7 @@
       "region": "Wyoming",
       "latitude": 41.13998,
       "longitude": -104.82025,
-      "count": 34
+      "count": 35
     },
     {
       "country": "US",
@@ -211,6 +215,14 @@
       "count": 5
     },
     {
+      "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
+      "count": 4
+    },
+    {
       "country": "SG",
       "city": "Jurong West",
       "region": "",
@@ -232,14 +244,6 @@
       "region": "Georgia",
       "latitude": 33.749,
       "longitude": -84.38798,
-      "count": 3
-    },
-    {
-      "country": "US",
-      "city": "Council Bluffs",
-      "region": "Iowa",
-      "latitude": 41.26194,
-      "longitude": -95.86083,
       "count": 3
     },
     {
@@ -488,6 +492,38 @@
       "region": "Galicia",
       "latitude": 43.37135,
       "longitude": -8.396,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Saginaw",
+      "region": "Texas",
+      "latitude": 32.86013,
+      "longitude": -97.36391,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Fort Worth",
+      "region": "Texas",
+      "latitude": 32.72541,
+      "longitude": -97.32085,
+      "count": 1
+    },
+    {
+      "country": "SG",
+      "city": "Queenstown Estate",
+      "region": "",
+      "latitude": 1.29417,
+      "longitude": 103.8025,
+      "count": 1
+    },
+    {
+      "country": "KR",
+      "city": "Hwaseong-si",
+      "region": "Gyeonggi-do",
+      "latitude": 37.20682,
+      "longitude": 126.8169,
       "count": 1
     }
   ]
