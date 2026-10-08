@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 531
+      "count": 532
     },
     {
       "country": "TW",
-      "count": 43
+      "count": 44
     },
     {
       "country": "JP",
@@ -92,7 +92,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 55
+      "count": 56
     },
     {
       "country": "US",
@@ -132,7 +132,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 42
+      "count": 43
     },
     {
       "country": "US",
