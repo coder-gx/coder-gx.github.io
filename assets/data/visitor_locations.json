@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 532
+      "count": 533
     },
     {
       "country": "TW",
@@ -65,6 +65,10 @@
       "count": 1
     },
     {
+      "country": "BR",
+      "count": 1
+    },
+    {
       "country": "AU",
       "count": 1
     }
@@ -100,7 +104,7 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 48
+      "count": 49
     },
     {
       "country": "US",
@@ -524,6 +528,14 @@
       "region": "Gyeonggi-do",
       "latitude": 37.20682,
       "longitude": 126.8169,
+      "count": 1
+    },
+    {
+      "country": "BR",
+      "city": "Campo Grande",
+      "region": "Mato Grosso do Sul",
+      "latitude": -20.44278,
+      "longitude": -54.64639,
       "count": 1
     }
   ]
