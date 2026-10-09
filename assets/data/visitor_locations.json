@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 533
+      "count": 534
     },
     {
       "country": "TW",
-      "count": 44
+      "count": 53
     },
     {
       "country": "JP",
@@ -96,7 +96,15 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 56
+      "count": 57
+    },
+    {
+      "country": "TW",
+      "city": "Taipei",
+      "region": "Taiwan",
+      "latitude": 25.05306,
+      "longitude": 121.52639,
+      "count": 52
     },
     {
       "country": "US",
@@ -129,14 +137,6 @@
       "latitude": 41.85003,
       "longitude": -87.65005,
       "count": 45
-    },
-    {
-      "country": "TW",
-      "city": "Taipei",
-      "region": "Taiwan",
-      "latitude": 25.05306,
-      "longitude": 121.52639,
-      "count": 43
     },
     {
       "country": "US",
