@@ -17,7 +17,32 @@ navbar_title: Home
 {% endif %}
 
 {% if site.data.display.homepage.show_selected_publications %}
-    {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+    {% comment %}
+        Keep paper-link dates separate from acceptance dates. Group by author role
+        after sorting, so each group retains newest-paper-first ordering.
+    {% endcomment %}
+    {% assign selected_pubs = site.publications | where: "selected", true | sort: "paper_date" | reverse %}
+    {% assign first_author_pubs = "" | split: "," %}
+    {% assign equal_author_pubs = "" | split: "," %}
+    {% assign other_author_pubs = "" | split: "," %}
+    {% for item in selected_pubs %}
+        {% assign first_author = item.authors.first | remove: "*" | remove: "#" | strip %}
+        {% assign is_equal_author = false %}
+        {% for author in item.authors %}
+            {% assign author_name = author | remove: "*" | remove: "#" | strip %}
+            {% if author_name == site.data.profile.primary_name and author contains "*" %}
+                {% assign is_equal_author = true %}
+            {% endif %}
+        {% endfor %}
+        {% if first_author == site.data.profile.primary_name %}
+            {% assign first_author_pubs = first_author_pubs | push: item %}
+        {% elsif is_equal_author %}
+            {% assign equal_author_pubs = equal_author_pubs | push: item %}
+        {% else %}
+            {% assign other_author_pubs = other_author_pubs | push: item %}
+        {% endif %}
+    {% endfor %}
+    {% assign pubs = first_author_pubs | concat: equal_author_pubs | concat: other_author_pubs %}
     {% 
         include widgets/publication_card.html 
         publications=pubs

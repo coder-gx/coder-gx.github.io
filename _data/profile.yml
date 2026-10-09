@@ -24,7 +24,7 @@ short_bio: >-
     Hi! I am Xuan Gong (<b>Xander Gong</b>), a second-year Ph.D. student in the School of Computer Science at Shanghai Jiao Tong University.
   </p>
   <p>
-    My research focuses on the <b>optimization</b> and <b>alignment</b> of foundation models, with an emphasis on improving the reasoning, factuality, agentic capabilities, safety, and science applications of <b>large language models</b> and <b>vision-language models</b> (maybe world models in the future).
+    My research focuses on <b>optimization and reinforcement learning</b> for foundation models (LLMs, VLMs, etc.), exploring which training signals and experiences are most informative and how to use them for more effective learning. I am motivated by the challenge of moving beyond static datasets toward learning through interaction with complex, partially observable real-world environments. Furthermore, I am interested in connecting algorithmic and theoretical advances with real-world applications, especially in AI for science and embodied intelligence.
   </p>
   <p>
     <i>If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you.</i>
