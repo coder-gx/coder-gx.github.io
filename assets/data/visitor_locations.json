@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 544
+      "count": 545
     },
     {
       "country": "TW",
-      "count": 55
+      "count": 56
     },
     {
       "country": "JP",
@@ -22,7 +22,7 @@
     },
     {
       "country": "BD",
-      "count": 2
+      "count": 3
     },
     {
       "country": "RU",
@@ -104,7 +104,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 54
+      "count": 55
     },
     {
       "country": "US",
@@ -140,18 +140,18 @@
     },
     {
       "country": "US",
-      "city": "Cheyenne",
-      "region": "Wyoming",
-      "latitude": 41.13998,
-      "longitude": -104.82025,
-      "count": 37
-    },
-    {
-      "country": "US",
       "city": "Boydton",
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
+      "count": 38
+    },
+    {
+      "country": "US",
+      "city": "Cheyenne",
+      "region": "Wyoming",
+      "latitude": 41.13998,
+      "longitude": -104.82025,
       "count": 37
     },
     {
@@ -256,7 +256,7 @@
       "region": "Dhaka Division",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "count": 2
+      "count": 3
     },
     {
       "country": "JP",
