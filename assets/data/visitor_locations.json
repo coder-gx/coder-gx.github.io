@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 545
+      "count": 546
     },
     {
       "country": "TW",
@@ -18,7 +18,7 @@
     },
     {
       "country": "HK",
-      "count": 7
+      "count": 8
     },
     {
       "country": "BD",
@@ -80,7 +80,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 70
+      "count": 71
     },
     {
       "country": "US",
@@ -200,7 +200,7 @@
       "region": "",
       "latitude": 22.27832,
       "longitude": 114.17469,
-      "count": 6
+      "count": 7
     },
     {
       "country": "US",
