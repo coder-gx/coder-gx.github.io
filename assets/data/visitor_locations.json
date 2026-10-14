@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 551
+      "count": 552
     },
     {
       "country": "TW",
@@ -259,19 +259,19 @@
       "count": 3
     },
     {
-      "country": "JP",
-      "city": "Monzen-nakachō",
-      "region": "Tokyo",
-      "latitude": 35.6309,
-      "longitude": 139.7917,
-      "count": 2
-    },
-    {
       "country": "US",
       "city": "San Antonio",
       "region": "Texas",
       "latitude": 29.42412,
       "longitude": -98.49363,
+      "count": 3
+    },
+    {
+      "country": "JP",
+      "city": "Monzen-nakachō",
+      "region": "Tokyo",
+      "latitude": 35.6309,
+      "longitude": 139.7917,
       "count": 2
     },
     {
