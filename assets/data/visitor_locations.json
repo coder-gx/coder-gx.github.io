@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 548
+      "count": 549
     },
     {
       "country": "TW",
@@ -18,7 +18,7 @@
     },
     {
       "country": "HK",
-      "count": 8
+      "count": 9
     },
     {
       "country": "BD",
@@ -144,7 +144,7 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
-      "count": 39
+      "count": 40
     },
     {
       "country": "US",
@@ -536,6 +536,14 @@
       "region": "Mato Grosso do Sul",
       "latitude": -20.44278,
       "longitude": -54.64639,
+      "count": 1
+    },
+    {
+      "country": "HK",
+      "city": "Kwai Chung",
+      "region": "",
+      "latitude": 22.36828,
+      "longitude": 114.13877,
       "count": 1
     }
   ]
