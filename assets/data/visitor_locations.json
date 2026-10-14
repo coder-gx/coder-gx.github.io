@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 549
+      "count": 550
     },
     {
       "country": "TW",
-      "count": 56
+      "count": 57
     },
     {
       "country": "JP",
@@ -14,11 +14,11 @@
     },
     {
       "country": "SG",
-      "count": 15
+      "count": 16
     },
     {
       "country": "HK",
-      "count": 9
+      "count": 10
     },
     {
       "country": "BD",
@@ -84,18 +84,18 @@
     },
     {
       "country": "US",
-      "city": "Washington",
-      "region": "Virginia",
-      "latitude": 38.71345,
-      "longitude": -78.15944,
-      "count": 57
-    },
-    {
-      "country": "US",
       "city": "Des Moines",
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
+      "count": 58
+    },
+    {
+      "country": "US",
+      "city": "Washington",
+      "region": "Virginia",
+      "latitude": 38.71345,
+      "longitude": -78.15944,
       "count": 57
     },
     {
@@ -104,7 +104,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 55
+      "count": 56
     },
     {
       "country": "US",
@@ -184,15 +184,7 @@
       "region": "",
       "latitude": 1.28967,
       "longitude": 103.85007,
-      "count": 10
-    },
-    {
-      "country": "US",
-      "city": "Ashburn",
-      "region": "Virginia",
-      "latitude": 39.04372,
-      "longitude": -77.48749,
-      "count": 7
+      "count": 11
     },
     {
       "country": "HK",
@@ -200,6 +192,14 @@
       "region": "",
       "latitude": 22.27832,
       "longitude": 114.17469,
+      "count": 8
+    },
+    {
+      "country": "US",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "latitude": 39.04372,
+      "longitude": -77.48749,
       "count": 7
     },
     {
