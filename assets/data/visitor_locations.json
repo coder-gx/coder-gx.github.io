@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 560
+      "count": 563
     },
     {
       "country": "TW",
@@ -136,7 +136,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 45
+      "count": 46
     },
     {
       "country": "US",
@@ -204,6 +204,14 @@
     },
     {
       "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
+      "count": 5
+    },
+    {
+      "country": "US",
       "city": "Dallas",
       "region": "Texas",
       "latitude": 32.78306,
@@ -217,14 +225,6 @@
       "latitude": 40.7611,
       "longitude": -73.8916,
       "count": 5
-    },
-    {
-      "country": "US",
-      "city": "Council Bluffs",
-      "region": "Iowa",
-      "latitude": 41.26194,
-      "longitude": -95.86083,
-      "count": 4
     },
     {
       "country": "SG",
@@ -272,6 +272,14 @@
       "region": "Tokyo",
       "latitude": 35.6309,
       "longitude": 139.7917,
+      "count": 2
+    },
+    {
+      "country": "US",
+      "city": "Fort Worth",
+      "region": "Texas",
+      "latitude": 32.72541,
+      "longitude": -97.32085,
       "count": 2
     },
     {
@@ -504,14 +512,6 @@
       "region": "Texas",
       "latitude": 32.86013,
       "longitude": -97.36391,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Fort Worth",
-      "region": "Texas",
-      "latitude": 32.72541,
-      "longitude": -97.32085,
       "count": 1
     },
     {
