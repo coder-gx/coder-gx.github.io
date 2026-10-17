@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 563
+      "count": 565
     },
     {
       "country": "TW",
@@ -80,7 +80,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 72
+      "count": 73
     },
     {
       "country": "US",
@@ -267,19 +267,19 @@
       "count": 3
     },
     {
-      "country": "JP",
-      "city": "Monzen-nakachō",
-      "region": "Tokyo",
-      "latitude": 35.6309,
-      "longitude": 139.7917,
-      "count": 2
-    },
-    {
       "country": "US",
       "city": "Fort Worth",
       "region": "Texas",
       "latitude": 32.72541,
       "longitude": -97.32085,
+      "count": 3
+    },
+    {
+      "country": "JP",
+      "city": "Monzen-nakachō",
+      "region": "Tokyo",
+      "latitude": 35.6309,
+      "longitude": 139.7917,
       "count": 2
     },
     {
