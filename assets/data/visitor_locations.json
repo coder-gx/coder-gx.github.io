@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 576
+      "count": 577
     },
     {
       "country": "TW",
@@ -236,6 +236,14 @@
     },
     {
       "country": "US",
+      "city": "San Antonio",
+      "region": "Texas",
+      "latitude": 29.42412,
+      "longitude": -98.49363,
+      "count": 4
+    },
+    {
+      "country": "US",
       "city": "Portland",
       "region": "Oregon",
       "latitude": 45.52345,
@@ -256,14 +264,6 @@
       "region": "Dhaka Division",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "count": 3
-    },
-    {
-      "country": "US",
-      "city": "San Antonio",
-      "region": "Texas",
-      "latitude": 29.42412,
-      "longitude": -98.49363,
       "count": 3
     },
     {
