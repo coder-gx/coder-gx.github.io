@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 583
+      "count": 584
     },
     {
       "country": "TW",
@@ -124,18 +124,18 @@
     },
     {
       "country": "US",
-      "city": "Seattle",
-      "region": "Washington",
-      "latitude": 47.60621,
-      "longitude": -122.33207,
-      "count": 47
-    },
-    {
-      "country": "US",
       "city": "Chicago",
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
+      "count": 48
+    },
+    {
+      "country": "US",
+      "city": "Seattle",
+      "region": "Washington",
+      "latitude": 47.60621,
+      "longitude": -122.33207,
       "count": 47
     },
     {
