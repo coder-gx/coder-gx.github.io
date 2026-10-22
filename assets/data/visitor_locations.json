@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 585
+      "count": 586
     },
     {
       "country": "TW",
@@ -91,20 +91,20 @@
       "count": 63
     },
     {
+      "country": "US",
+      "city": "Dulles Town Center",
+      "region": "Virginia",
+      "latitude": 39.03761,
+      "longitude": -77.41582,
+      "count": 60
+    },
+    {
       "country": "TW",
       "city": "Taipei",
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
       "count": 60
-    },
-    {
-      "country": "US",
-      "city": "Dulles Town Center",
-      "region": "Virginia",
-      "latitude": 39.03761,
-      "longitude": -77.41582,
-      "count": 59
     },
     {
       "country": "US",
