@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 589
+      "count": 592
     },
     {
       "country": "TW",
@@ -108,18 +108,18 @@
     },
     {
       "country": "US",
-      "city": "Washington",
-      "region": "Virginia",
-      "latitude": 38.71345,
-      "longitude": -78.15944,
-      "count": 57
-    },
-    {
-      "country": "US",
       "city": "Phoenix",
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
+      "count": 58
+    },
+    {
+      "country": "US",
+      "city": "Washington",
+      "region": "Virginia",
+      "latitude": 38.71345,
+      "longitude": -78.15944,
       "count": 57
     },
     {
@@ -208,7 +208,7 @@
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
-      "count": 5
+      "count": 6
     },
     {
       "country": "US",
@@ -216,7 +216,7 @@
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
-      "count": 5
+      "count": 6
     },
     {
       "country": "US",
