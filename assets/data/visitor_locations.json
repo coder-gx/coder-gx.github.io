@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 596
+      "count": 598
     },
     {
       "country": "TW",
-      "count": 61
+      "count": 62
     },
     {
       "country": "JP",
@@ -104,7 +104,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 60
+      "count": 61
     },
     {
       "country": "US",
@@ -152,7 +152,7 @@
       "region": "Wyoming",
       "latitude": 41.13998,
       "longitude": -104.82025,
-      "count": 38
+      "count": 39
     },
     {
       "country": "US",
@@ -187,20 +187,20 @@
       "count": 13
     },
     {
+      "country": "US",
+      "city": "Ashburn",
+      "region": "Virginia",
+      "latitude": 39.04372,
+      "longitude": -77.48749,
+      "count": 8
+    },
+    {
       "country": "HK",
       "city": "Hong Kong",
       "region": "",
       "latitude": 22.27832,
       "longitude": 114.17469,
       "count": 8
-    },
-    {
-      "country": "US",
-      "city": "Ashburn",
-      "region": "Virginia",
-      "latitude": 39.04372,
-      "longitude": -77.48749,
-      "count": 7
     },
     {
       "country": "US",
