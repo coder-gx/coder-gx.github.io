@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 600
+      "count": 602
     },
     {
       "country": "TW",
@@ -112,7 +112,7 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 59
+      "count": 60
     },
     {
       "country": "US",
@@ -227,19 +227,19 @@
       "count": 5
     },
     {
-      "country": "SG",
-      "city": "Jurong West",
-      "region": "",
-      "latitude": 1.35028,
-      "longitude": 103.72278,
-      "count": 4
-    },
-    {
       "country": "US",
       "city": "San Antonio",
       "region": "Texas",
       "latitude": 29.42412,
       "longitude": -98.49363,
+      "count": 5
+    },
+    {
+      "country": "SG",
+      "city": "Jurong West",
+      "region": "",
+      "latitude": 1.35028,
+      "longitude": 103.72278,
       "count": 4
     },
     {
