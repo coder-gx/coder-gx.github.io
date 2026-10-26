@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 604
+      "count": 605
     },
     {
       "country": "TW",
-      "count": 63
+      "count": 65
     },
     {
       "country": "JP",
@@ -80,7 +80,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 77
+      "count": 78
     },
     {
       "country": "US",
@@ -96,7 +96,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 62
+      "count": 64
     },
     {
       "country": "US",
