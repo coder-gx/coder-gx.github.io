@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 603
+      "count": 604
     },
     {
       "country": "TW",
-      "count": 62
+      "count": 63
     },
     {
       "country": "JP",
@@ -91,6 +91,14 @@
       "count": 66
     },
     {
+      "country": "TW",
+      "city": "Taipei",
+      "region": "Taiwan",
+      "latitude": 25.05306,
+      "longitude": 121.52639,
+      "count": 62
+    },
+    {
       "country": "US",
       "city": "Phoenix",
       "region": "Arizona",
@@ -104,14 +112,6 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 61
-    },
-    {
-      "country": "TW",
-      "city": "Taipei",
-      "region": "Taiwan",
-      "latitude": 25.05306,
-      "longitude": 121.52639,
       "count": 61
     },
     {
@@ -144,7 +144,7 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
-      "count": 43
+      "count": 44
     },
     {
       "country": "US",
