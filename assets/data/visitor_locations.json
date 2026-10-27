@@ -25,15 +25,15 @@
       "count": 3
     },
     {
+      "country": "MX",
+      "count": 2
+    },
+    {
       "country": "CL",
       "count": 2
     },
     {
       "country": "RU",
-      "count": 1
-    },
-    {
-      "country": "MX",
       "count": 1
     },
     {
@@ -283,6 +283,14 @@
       "count": 2
     },
     {
+      "country": "MX",
+      "city": "Santiago de Querétaro",
+      "region": "Querétaro",
+      "latitude": 20.58806,
+      "longitude": -100.38806,
+      "count": 2
+    },
+    {
       "country": "CL",
       "city": "Santiago",
       "region": "Santiago Metropolitan",
@@ -408,14 +416,6 @@
       "region": "Taiwan",
       "latitude": 24.1469,
       "longitude": 120.6839,
-      "count": 1
-    },
-    {
-      "country": "MX",
-      "city": "Santiago de Querétaro",
-      "region": "Querétaro",
-      "latitude": 20.58806,
-      "longitude": -100.38806,
       "count": 1
     },
     {
