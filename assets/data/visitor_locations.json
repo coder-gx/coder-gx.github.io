@@ -2,15 +2,15 @@
   "countries": [
     {
       "country": "US",
-      "count": 610
+      "count": 614
     },
     {
       "country": "TW",
-      "count": 66
+      "count": 67
     },
     {
       "country": "JP",
-      "count": 21
+      "count": 22
     },
     {
       "country": "SG",
@@ -96,7 +96,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 65
+      "count": 66
     },
     {
       "country": "US",
@@ -104,7 +104,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 63
+      "count": 64
     },
     {
       "country": "US",
@@ -188,6 +188,14 @@
     },
     {
       "country": "US",
+      "city": "Dallas",
+      "region": "Texas",
+      "latitude": 32.78306,
+      "longitude": -96.80667,
+      "count": 9
+    },
+    {
+      "country": "US",
       "city": "Ashburn",
       "region": "Virginia",
       "latitude": 39.04372,
@@ -204,19 +212,11 @@
     },
     {
       "country": "US",
-      "city": "Dallas",
-      "region": "Texas",
-      "latitude": 32.78306,
-      "longitude": -96.80667,
-      "count": 7
-    },
-    {
-      "country": "US",
       "city": "Council Bluffs",
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
-      "count": 6
+      "count": 7
     },
     {
       "country": "US",
@@ -283,6 +283,14 @@
       "count": 2
     },
     {
+      "country": "JP",
+      "city": "Asagaya-minami",
+      "region": "Tokyo",
+      "latitude": 35.6769,
+      "longitude": 139.652,
+      "count": 2
+    },
+    {
       "country": "MX",
       "city": "Santiago de Querétaro",
       "region": "Querétaro",
@@ -328,14 +336,6 @@
       "region": "Tokyo",
       "latitude": 35.617,
       "longitude": 139.7486,
-      "count": 1
-    },
-    {
-      "country": "JP",
-      "city": "Asagaya-minami",
-      "region": "Tokyo",
-      "latitude": 35.6769,
-      "longitude": 139.652,
       "count": 1
     },
     {
