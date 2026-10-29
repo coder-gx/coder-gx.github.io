@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 617
+      "count": 620
     },
     {
       "country": "TW",
@@ -91,20 +91,20 @@
       "count": 67
     },
     {
+      "country": "US",
+      "city": "Dulles Town Center",
+      "region": "Virginia",
+      "latitude": 39.03761,
+      "longitude": -77.41582,
+      "count": 66
+    },
+    {
       "country": "TW",
       "city": "Taipei",
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
       "count": 66
-    },
-    {
-      "country": "US",
-      "city": "Dulles Town Center",
-      "region": "Virginia",
-      "latitude": 39.03761,
-      "longitude": -77.41582,
-      "count": 65
     },
     {
       "country": "US",
@@ -192,7 +192,15 @@
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
-      "count": 9
+      "count": 10
+    },
+    {
+      "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
+      "count": 8
     },
     {
       "country": "US",
@@ -209,14 +217,6 @@
       "latitude": 22.27832,
       "longitude": 114.17469,
       "count": 8
-    },
-    {
-      "country": "US",
-      "city": "Council Bluffs",
-      "region": "Iowa",
-      "latitude": 41.26194,
-      "longitude": -95.86083,
-      "count": 7
     },
     {
       "country": "US",
