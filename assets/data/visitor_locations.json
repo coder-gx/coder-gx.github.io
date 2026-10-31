@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 626
+      "count": 627
     },
     {
       "country": "TW",
@@ -112,7 +112,7 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 63
+      "count": 64
     },
     {
       "country": "US",
