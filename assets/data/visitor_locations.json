@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 627
+      "count": 629
     },
     {
       "country": "TW",
@@ -96,7 +96,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 67
+      "count": 68
     },
     {
       "country": "TW",
@@ -200,7 +200,7 @@
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
-      "count": 8
+      "count": 9
     },
     {
       "country": "US",
