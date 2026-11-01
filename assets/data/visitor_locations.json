@@ -2,15 +2,15 @@
   "countries": [
     {
       "country": "US",
-      "count": 630
+      "count": 631
     },
     {
       "country": "TW",
-      "count": 68
+      "count": 69
     },
     {
       "country": "JP",
-      "count": 22
+      "count": 23
     },
     {
       "country": "SG",
@@ -88,7 +88,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 68
+      "count": 69
     },
     {
       "country": "US",
@@ -104,7 +104,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 67
+      "count": 68
     },
     {
       "country": "US",
@@ -168,7 +168,7 @@
       "region": "Tokyo",
       "latitude": 35.6895,
       "longitude": 139.69171,
-      "count": 17
+      "count": 18
     },
     {
       "country": "US",
