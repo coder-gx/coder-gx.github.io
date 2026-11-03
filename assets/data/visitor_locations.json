@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 634
+      "count": 636
     },
     {
       "country": "TW",
@@ -88,7 +88,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 70
+      "count": 71
     },
     {
       "country": "US",
@@ -188,19 +188,19 @@
     },
     {
       "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
+      "count": 10
+    },
+    {
+      "country": "US",
       "city": "Dallas",
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
       "count": 10
-    },
-    {
-      "country": "US",
-      "city": "Council Bluffs",
-      "region": "Iowa",
-      "latitude": 41.26194,
-      "longitude": -95.86083,
-      "count": 9
     },
     {
       "country": "US",
