@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 641
+      "count": 642
     },
     {
       "country": "TW",
@@ -14,7 +14,7 @@
     },
     {
       "country": "SG",
-      "count": 18
+      "count": 19
     },
     {
       "country": "HK",
@@ -128,7 +128,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 50
+      "count": 51
     },
     {
       "country": "US",
@@ -304,6 +304,14 @@
       "region": "Santiago Metropolitan",
       "latitude": -33.45694,
       "longitude": -70.64827,
+      "count": 2
+    },
+    {
+      "country": "SG",
+      "city": "Queenstown Estate",
+      "region": "",
+      "latitude": 1.29417,
+      "longitude": 103.8025,
       "count": 2
     },
     {
@@ -512,14 +520,6 @@
       "region": "Texas",
       "latitude": 32.86013,
       "longitude": -97.36391,
-      "count": 1
-    },
-    {
-      "country": "SG",
-      "city": "Queenstown Estate",
-      "region": "",
-      "latitude": 1.29417,
-      "longitude": 103.8025,
       "count": 1
     },
     {
