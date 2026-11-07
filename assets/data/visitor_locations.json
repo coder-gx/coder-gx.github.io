@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 645
+      "count": 647
     },
     {
       "country": "TW",
@@ -208,7 +208,7 @@
       "region": "Virginia",
       "latitude": 39.04372,
       "longitude": -77.48749,
-      "count": 8
+      "count": 9
     },
     {
       "country": "HK",
@@ -220,18 +220,18 @@
     },
     {
       "country": "US",
-      "city": "New York City",
-      "region": "New York",
-      "latitude": 40.7611,
-      "longitude": -73.8916,
-      "count": 5
-    },
-    {
-      "country": "US",
       "city": "San Antonio",
       "region": "Texas",
       "latitude": 29.42412,
       "longitude": -98.49363,
+      "count": 6
+    },
+    {
+      "country": "US",
+      "city": "New York City",
+      "region": "New York",
+      "latitude": 40.7611,
+      "longitude": -73.8916,
       "count": 5
     },
     {
