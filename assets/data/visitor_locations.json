@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 652
+      "count": 653
     },
     {
       "country": "TW",
-      "count": 74
+      "count": 75
     },
     {
       "country": "JP",
@@ -83,19 +83,19 @@
       "count": 82
     },
     {
-      "country": "US",
-      "city": "Des Moines",
-      "region": "Iowa",
-      "latitude": 41.60054,
-      "longitude": -93.60911,
-      "count": 73
-    },
-    {
       "country": "TW",
       "city": "Taipei",
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
+      "count": 74
+    },
+    {
+      "country": "US",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "latitude": 41.60054,
+      "longitude": -93.60911,
       "count": 73
     },
     {
@@ -112,7 +112,7 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 67
+      "count": 68
     },
     {
       "country": "US",
