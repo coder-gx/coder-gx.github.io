@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 660
+      "count": 661
     },
     {
       "country": "TW",
@@ -132,18 +132,18 @@
     },
     {
       "country": "US",
-      "city": "Seattle",
-      "region": "Washington",
-      "latitude": 47.60621,
-      "longitude": -122.33207,
-      "count": 47
-    },
-    {
-      "country": "US",
       "city": "Boydton",
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
+      "count": 48
+    },
+    {
+      "country": "US",
+      "city": "Seattle",
+      "region": "Washington",
+      "latitude": 47.60621,
+      "longitude": -122.33207,
       "count": 47
     },
     {
