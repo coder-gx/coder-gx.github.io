@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 661
+      "count": 663
     },
     {
       "country": "TW",
@@ -136,7 +136,7 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
-      "count": 48
+      "count": 49
     },
     {
       "country": "US",
@@ -552,6 +552,14 @@
       "region": "England",
       "latitude": 51.50853,
       "longitude": -0.12574,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "The Dalles",
+      "region": "Oregon",
+      "latitude": 45.59456,
+      "longitude": -121.17868,
       "count": 1
     }
   ]
