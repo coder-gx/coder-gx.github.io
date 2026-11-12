@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 663
+      "count": 665
     },
     {
       "country": "TW",
@@ -136,7 +136,7 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
-      "count": 49
+      "count": 50
     },
     {
       "country": "US",
@@ -560,6 +560,14 @@
       "region": "Oregon",
       "latitude": 45.59456,
       "longitude": -121.17868,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Ossining",
+      "region": "New York",
+      "latitude": 41.16287,
+      "longitude": -73.86152,
       "count": 1
     }
   ]
