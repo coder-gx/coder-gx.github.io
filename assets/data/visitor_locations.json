@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 665
+      "count": 670
     },
     {
       "country": "TW",
@@ -10,7 +10,7 @@
     },
     {
       "country": "JP",
-      "count": 24
+      "count": 25
     },
     {
       "country": "SG",
@@ -104,7 +104,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 71
+      "count": 72
     },
     {
       "country": "US",
@@ -192,7 +192,7 @@
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
-      "count": 11
+      "count": 13
     },
     {
       "country": "US",
@@ -200,7 +200,7 @@
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
-      "count": 11
+      "count": 13
     },
     {
       "country": "US",
@@ -267,6 +267,14 @@
       "count": 3
     },
     {
+      "country": "JP",
+      "city": "Asagaya-minami",
+      "region": "Tokyo",
+      "latitude": 35.6769,
+      "longitude": 139.652,
+      "count": 3
+    },
+    {
       "country": "US",
       "city": "Fort Worth",
       "region": "Texas",
@@ -280,14 +288,6 @@
       "region": "Tokyo",
       "latitude": 35.6309,
       "longitude": 139.7917,
-      "count": 2
-    },
-    {
-      "country": "JP",
-      "city": "Asagaya-minami",
-      "region": "Tokyo",
-      "latitude": 35.6769,
-      "longitude": 139.652,
       "count": 2
     },
     {
