@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 671
+      "count": 672
     },
     {
       "country": "TW",
-      "count": 75
+      "count": 76
     },
     {
       "country": "JP",
@@ -88,7 +88,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 74
+      "count": 75
     },
     {
       "country": "US",
@@ -291,6 +291,14 @@
       "count": 2
     },
     {
+      "country": "US",
+      "city": "Boardman",
+      "region": "Oregon",
+      "latitude": 45.83986,
+      "longitude": -119.70058,
+      "count": 2
+    },
+    {
       "country": "MX",
       "city": "Santiago de Querétaro",
       "region": "Querétaro",
@@ -384,14 +392,6 @@
       "region": "Western Australia",
       "latitude": -31.95224,
       "longitude": 115.8614,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Boardman",
-      "region": "Oregon",
-      "latitude": 45.83986,
-      "longitude": -119.70058,
       "count": 1
     },
     {
