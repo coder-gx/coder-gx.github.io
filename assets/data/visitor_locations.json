@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 677
+      "count": 678
     },
     {
       "country": "TW",
-      "count": 76
+      "count": 78
     },
     {
       "country": "JP",
@@ -29,6 +29,10 @@
       "count": 2
     },
     {
+      "country": "KR",
+      "count": 2
+    },
+    {
       "country": "GB",
       "count": 2
     },
@@ -46,10 +50,6 @@
     },
     {
       "country": "KZ",
-      "count": 1
-    },
-    {
-      "country": "KR",
       "count": 1
     },
     {
@@ -83,19 +83,19 @@
       "count": 83
     },
     {
-      "country": "US",
-      "city": "Des Moines",
-      "region": "Iowa",
-      "latitude": 41.60054,
-      "longitude": -93.60911,
-      "count": 75
-    },
-    {
       "country": "TW",
       "city": "Taipei",
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
+      "count": 77
+    },
+    {
+      "country": "US",
+      "city": "Des Moines",
+      "region": "Iowa",
+      "latitude": 41.60054,
+      "longitude": -93.60911,
       "count": 75
     },
     {
@@ -112,7 +112,7 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 69
+      "count": 70
     },
     {
       "country": "US",
@@ -568,6 +568,14 @@
       "region": "New York",
       "latitude": 41.16287,
       "longitude": -73.86152,
+      "count": 1
+    },
+    {
+      "country": "KR",
+      "city": "Pohang",
+      "region": "Gyeongsangbuk-do",
+      "latitude": 36.02917,
+      "longitude": 129.36481,
       "count": 1
     }
   ]
