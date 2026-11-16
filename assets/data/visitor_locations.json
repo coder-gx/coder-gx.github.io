@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 679
+      "count": 680
     },
     {
       "country": "TW",
@@ -276,6 +276,14 @@
     },
     {
       "country": "US",
+      "city": "Boardman",
+      "region": "Oregon",
+      "latitude": 45.83986,
+      "longitude": -119.70058,
+      "count": 3
+    },
+    {
+      "country": "US",
       "city": "Fort Worth",
       "region": "Texas",
       "latitude": 32.72541,
@@ -288,14 +296,6 @@
       "region": "Tokyo",
       "latitude": 35.6309,
       "longitude": 139.7917,
-      "count": 2
-    },
-    {
-      "country": "US",
-      "city": "Boardman",
-      "region": "Oregon",
-      "latitude": 45.83986,
-      "longitude": -119.70058,
       "count": 2
     },
     {
