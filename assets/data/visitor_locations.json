@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 682
+      "count": 687
     },
     {
       "country": "TW",
@@ -128,7 +128,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 52
+      "count": 53
     },
     {
       "country": "US",
@@ -179,20 +179,12 @@
       "count": 17
     },
     {
-      "country": "SG",
-      "city": "Singapore",
-      "region": "",
-      "latitude": 1.28967,
-      "longitude": 103.85007,
-      "count": 14
-    },
-    {
       "country": "US",
       "city": "Council Bluffs",
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
-      "count": 13
+      "count": 14
     },
     {
       "country": "US",
@@ -200,7 +192,15 @@
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
-      "count": 13
+      "count": 14
+    },
+    {
+      "country": "SG",
+      "city": "Singapore",
+      "region": "",
+      "latitude": 1.28967,
+      "longitude": 103.85007,
+      "count": 14
     },
     {
       "country": "US",
@@ -328,6 +328,14 @@
       "region": "",
       "latitude": 1.29417,
       "longitude": 103.8025,
+      "count": 2
+    },
+    {
+      "country": "US",
+      "city": "Centreville",
+      "region": "Virginia",
+      "latitude": 38.84039,
+      "longitude": -77.42888,
       "count": 2
     },
     {
