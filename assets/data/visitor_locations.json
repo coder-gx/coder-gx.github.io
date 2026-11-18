@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 698
+      "count": 703
     },
     {
       "country": "TW",
-      "count": 81
+      "count": 83
     },
     {
       "country": "JP",
@@ -88,7 +88,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 80
+      "count": 82
     },
     {
       "country": "US",
@@ -104,7 +104,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 72
+      "count": 73
     },
     {
       "country": "US",
@@ -180,19 +180,19 @@
     },
     {
       "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
+      "count": 17
+    },
+    {
+      "country": "US",
       "city": "Dallas",
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
       "count": 17
-    },
-    {
-      "country": "US",
-      "city": "Council Bluffs",
-      "region": "Iowa",
-      "latitude": 41.26194,
-      "longitude": -95.86083,
-      "count": 16
     },
     {
       "country": "SG",
@@ -208,7 +208,7 @@
       "region": "Virginia",
       "latitude": 39.04372,
       "longitude": -77.48749,
-      "count": 9
+      "count": 10
     },
     {
       "country": "HK",
@@ -260,6 +260,14 @@
     },
     {
       "country": "US",
+      "city": "Fort Worth",
+      "region": "Texas",
+      "latitude": 32.72541,
+      "longitude": -97.32085,
+      "count": 4
+    },
+    {
+      "country": "US",
       "city": "Portland",
       "region": "Oregon",
       "latitude": 45.52345,
@@ -280,14 +288,6 @@
       "region": "Tokyo",
       "latitude": 35.6769,
       "longitude": 139.652,
-      "count": 3
-    },
-    {
-      "country": "US",
-      "city": "Fort Worth",
-      "region": "Texas",
-      "latitude": 32.72541,
-      "longitude": -97.32085,
       "count": 3
     },
     {
@@ -592,6 +592,14 @@
       "region": "California",
       "latitude": 37.7621,
       "longitude": -122.3971,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "Manassas",
+      "region": "Virginia",
+      "latitude": 38.75095,
+      "longitude": -77.47527,
       "count": 1
     }
   ]
