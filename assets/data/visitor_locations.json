@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 687
+      "count": 698
     },
     {
       "country": "TW",
-      "count": 79
+      "count": 81
     },
     {
       "country": "JP",
@@ -21,6 +21,10 @@
       "count": 10
     },
     {
+      "country": "GB",
+      "count": 3
+    },
+    {
       "country": "BD",
       "count": 3
     },
@@ -30,10 +34,6 @@
     },
     {
       "country": "KR",
-      "count": 2
-    },
-    {
-      "country": "GB",
       "count": 2
     },
     {
@@ -88,7 +88,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 78
+      "count": 80
     },
     {
       "country": "US",
@@ -128,7 +128,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 53
+      "count": 54
     },
     {
       "country": "US",
@@ -160,7 +160,7 @@
       "region": "Washington",
       "latitude": 47.13014,
       "longitude": -119.27808,
-      "count": 39
+      "count": 40
     },
     {
       "country": "JP",
@@ -180,19 +180,19 @@
     },
     {
       "country": "US",
-      "city": "Council Bluffs",
-      "region": "Iowa",
-      "latitude": 41.26194,
-      "longitude": -95.86083,
-      "count": 14
-    },
-    {
-      "country": "US",
       "city": "Dallas",
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
-      "count": 14
+      "count": 17
+    },
+    {
+      "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
+      "count": 16
     },
     {
       "country": "SG",
@@ -232,6 +232,14 @@
       "region": "New York",
       "latitude": 40.7611,
       "longitude": -73.8916,
+      "count": 5
+    },
+    {
+      "country": "US",
+      "city": "Boardman",
+      "region": "Oregon",
+      "latitude": 45.83986,
+      "longitude": -119.70058,
       "count": 5
     },
     {
@@ -276,14 +284,6 @@
     },
     {
       "country": "US",
-      "city": "Boardman",
-      "region": "Oregon",
-      "latitude": 45.83986,
-      "longitude": -119.70058,
-      "count": 3
-    },
-    {
-      "country": "US",
       "city": "Fort Worth",
       "region": "Texas",
       "latitude": 32.72541,
@@ -296,6 +296,14 @@
       "region": "Tokyo",
       "latitude": 35.6309,
       "longitude": 139.7917,
+      "count": 2
+    },
+    {
+      "country": "US",
+      "city": "Santa Clara",
+      "region": "California",
+      "latitude": 37.35411,
+      "longitude": -121.95524,
       "count": 2
     },
     {
@@ -328,6 +336,14 @@
       "region": "",
       "latitude": 1.29417,
       "longitude": 103.8025,
+      "count": 2
+    },
+    {
+      "country": "GB",
+      "city": "London",
+      "region": "England",
+      "latitude": 51.50853,
+      "longitude": -0.12574,
       "count": 2
     },
     {
@@ -376,14 +392,6 @@
       "region": "California",
       "latitude": 32.71571,
       "longitude": -117.16472,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Santa Clara",
-      "region": "California",
-      "latitude": 37.35411,
-      "longitude": -121.95524,
       "count": 1
     },
     {
@@ -555,14 +563,6 @@
       "count": 1
     },
     {
-      "country": "GB",
-      "city": "London",
-      "region": "England",
-      "latitude": 51.50853,
-      "longitude": -0.12574,
-      "count": 1
-    },
-    {
       "country": "US",
       "city": "The Dalles",
       "region": "Oregon",
@@ -584,6 +584,14 @@
       "region": "Gyeongsangbuk-do",
       "latitude": 36.02917,
       "longitude": 129.36481,
+      "count": 1
+    },
+    {
+      "country": "US",
+      "city": "San Francisco",
+      "region": "California",
+      "latitude": 37.7621,
+      "longitude": -122.3971,
       "count": 1
     }
   ]
