@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 704
+      "count": 705
     },
     {
       "country": "TW",
-      "count": 83
+      "count": 85
     },
     {
       "country": "JP",
@@ -14,7 +14,7 @@
     },
     {
       "country": "SG",
-      "count": 20
+      "count": 22
     },
     {
       "country": "HK",
@@ -88,7 +88,7 @@
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
-      "count": 82
+      "count": 84
     },
     {
       "country": "US",
@@ -128,7 +128,7 @@
       "region": "Illinois",
       "latitude": 41.85003,
       "longitude": -87.65005,
-      "count": 54
+      "count": 55
     },
     {
       "country": "US",
@@ -200,7 +200,7 @@
       "region": "",
       "latitude": 1.28967,
       "longitude": 103.85007,
-      "count": 14
+      "count": 15
     },
     {
       "country": "US",
@@ -600,6 +600,14 @@
       "region": "Virginia",
       "latitude": 38.75095,
       "longitude": -77.47527,
+      "count": 1
+    },
+    {
+      "country": "SG",
+      "city": "Ang Mo Kio New Town",
+      "region": "",
+      "latitude": 1.38028,
+      "longitude": 103.83972,
       "count": 1
     }
   ]
