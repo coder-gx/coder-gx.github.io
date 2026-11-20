@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 709
+      "count": 710
     },
     {
       "country": "TW",
@@ -224,7 +224,7 @@
       "region": "Texas",
       "latitude": 29.42412,
       "longitude": -98.49363,
-      "count": 7
+      "count": 8
     },
     {
       "country": "US",
