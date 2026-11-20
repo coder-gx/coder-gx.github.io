@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 705
+      "count": 708
     },
     {
       "country": "TW",
@@ -96,7 +96,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 77
+      "count": 78
     },
     {
       "country": "US",
@@ -172,18 +172,18 @@
     },
     {
       "country": "US",
-      "city": "Los Angeles",
-      "region": "California",
-      "latitude": 34.05223,
-      "longitude": -118.24368,
-      "count": 17
-    },
-    {
-      "country": "US",
       "city": "Council Bluffs",
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
+      "count": 18
+    },
+    {
+      "country": "US",
+      "city": "Los Angeles",
+      "region": "California",
+      "latitude": 34.05223,
+      "longitude": -118.24368,
       "count": 17
     },
     {
@@ -244,6 +244,14 @@
     },
     {
       "country": "US",
+      "city": "Fort Worth",
+      "region": "Texas",
+      "latitude": 32.72541,
+      "longitude": -97.32085,
+      "count": 5
+    },
+    {
+      "country": "US",
       "city": "Atlanta",
       "region": "Georgia",
       "latitude": 33.749,
@@ -256,14 +264,6 @@
       "region": "",
       "latitude": 1.35028,
       "longitude": 103.72278,
-      "count": 4
-    },
-    {
-      "country": "US",
-      "city": "Fort Worth",
-      "region": "Texas",
-      "latitude": 32.72541,
-      "longitude": -97.32085,
       "count": 4
     },
     {
