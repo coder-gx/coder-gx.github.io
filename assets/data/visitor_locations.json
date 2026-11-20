@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 708
+      "count": 709
     },
     {
       "country": "TW",
-      "count": 85
+      "count": 89
     },
     {
       "country": "JP",
@@ -75,19 +75,19 @@
   ],
   "cities": [
     {
-      "country": "US",
-      "city": "San Jose",
-      "region": "California",
-      "latitude": 37.33939,
-      "longitude": -121.89496,
-      "count": 84
-    },
-    {
       "country": "TW",
       "city": "Taipei",
       "region": "Taiwan",
       "latitude": 25.05306,
       "longitude": 121.52639,
+      "count": 88
+    },
+    {
+      "country": "US",
+      "city": "San Jose",
+      "region": "California",
+      "latitude": 37.33939,
+      "longitude": -121.89496,
       "count": 84
     },
     {
@@ -224,7 +224,7 @@
       "region": "Texas",
       "latitude": 29.42412,
       "longitude": -98.49363,
-      "count": 6
+      "count": 7
     },
     {
       "country": "US",
