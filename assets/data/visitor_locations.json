@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 711
+      "count": 713
     },
     {
       "country": "TW",
-      "count": 89
+      "count": 101
     },
     {
       "country": "JP",
@@ -203,6 +203,14 @@
       "count": 15
     },
     {
+      "country": "TW",
+      "city": "Banqiao",
+      "region": "Taipei",
+      "latitude": 25.01427,
+      "longitude": 121.46719,
+      "count": 12
+    },
+    {
       "country": "US",
       "city": "Ashburn",
       "region": "Virginia",
@@ -211,19 +219,19 @@
       "count": 10
     },
     {
-      "country": "HK",
-      "city": "Hong Kong",
-      "region": "",
-      "latitude": 22.27832,
-      "longitude": 114.17469,
-      "count": 8
-    },
-    {
       "country": "US",
       "city": "San Antonio",
       "region": "Texas",
       "latitude": 29.42412,
       "longitude": -98.49363,
+      "count": 9
+    },
+    {
+      "country": "HK",
+      "city": "Hong Kong",
+      "region": "",
+      "latitude": 22.27832,
+      "longitude": 114.17469,
       "count": 8
     },
     {
@@ -300,6 +308,14 @@
     },
     {
       "country": "US",
+      "city": "Newark",
+      "region": "New Jersey",
+      "latitude": 40.73566,
+      "longitude": -74.17237,
+      "count": 2
+    },
+    {
+      "country": "US",
       "city": "Santa Clara",
       "region": "California",
       "latitude": 37.35411,
@@ -360,14 +376,6 @@
       "region": "Lazio",
       "latitude": 42.54255,
       "longitude": 12.03192,
-      "count": 1
-    },
-    {
-      "country": "US",
-      "city": "Newark",
-      "region": "New Jersey",
-      "latitude": 40.73566,
-      "longitude": -74.17237,
       "count": 1
     },
     {
