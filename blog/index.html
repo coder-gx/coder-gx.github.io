@@ -1,0 +1,38 @@
+---
+layout: default
+title: Blog
+navbar_title: Blog
+stylesheet: /assets/css/blog.css
+description: Research notes by Xuan Gong.
+permalink: /blog/
+---
+<main class="blog-page blog-index">
+    <header class="blog-index-header">
+        <h1>Blog</h1>
+        <p>{{ page.description | escape }}</p>
+    </header>
+
+    {% comment %}Translations have their own URLs and share one listing with the primary article.{% endcomment %}
+    {% assign posts = site.blog | where_exp: "post", "post.translation != true" | sort: "date" | reverse %}
+    {% assign years = posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in years %}
+    <section class="blog-year" aria-labelledby="year-{{ year.name }}">
+        <h2 id="year-{{ year.name }}">{{ year.name }}</h2>
+        <div>
+            {% for post in year.items %}
+            <article class="blog-entry">
+                <p class="blog-meta">
+                    <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%b %-d, %Y' }}</time>
+                    <span>{{ post.tags | join: ' · ' | escape }}</span>
+                </p>
+                <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+                <p>{{ post.description | escape }}</p>
+                {% if post.alternate_url %}
+                <a class="blog-translation" href="{{ post.alternate_url | relative_url }}" hreflang="zh-CN" lang="zh-CN">{{ post.alternate_title | escape }}</a>
+                {% endif %}
+            </article>
+            {% endfor %}
+        </div>
+    </section>
+    {% endfor %}
+</main>

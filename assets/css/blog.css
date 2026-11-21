@@ -1,0 +1,373 @@
+/* Blog typography follows the article language, including translated links in the archive. */
+.blog-page {
+    --blog-ink: #20262f;
+    --blog-muted: #505a68;
+    --blog-rule: #d8e0e9;
+    --blog-accent: #2d5481;
+    --blog-tint: #eef2f7;
+    color: var(--blog-ink);
+    font-family: "Times New Roman", Times, "Liberation Serif", serif;
+    margin: 0 auto 4rem;
+    max-width: 50rem;
+    padding: 0.85rem 0.75rem 0;
+}
+
+.blog-page:lang(zh),
+.blog-page [lang|="zh"] {
+    /* Prefer Times for Latin text and use Song typefaces for Chinese glyphs. */
+    font-family: "Times New Roman", Times, "Songti SC", SimSun, "Noto Serif CJK SC", serif;
+}
+
+.blog-post {
+    max-width: 44rem;
+}
+
+.blog-page h1,
+.blog-page h2,
+.blog-page h3 {
+    color: var(--blog-ink);
+}
+
+.blog-page h1 {
+    font-size: clamp(1.65rem, 4.2vw, 2.35rem);
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0;
+    overflow-wrap: break-word;
+}
+
+.blog-index-header {
+    border-bottom: 1px solid var(--blog-rule);
+    margin-bottom: 1.8rem;
+    padding-bottom: 1.5rem;
+}
+
+.blog-index-header p {
+    color: var(--blog-muted);
+    font-size: 1rem;
+    margin: 0.75rem 0 0;
+}
+
+.blog-year {
+    display: grid;
+    gap: 0.75rem 2rem;
+    grid-template-columns: 4.75rem minmax(0, 1fr);
+}
+
+.blog-year + .blog-year {
+    margin-top: 2rem;
+}
+
+.blog-year h2 {
+    font-size: 1.05rem;
+    margin: 0;
+}
+
+.blog-entry {
+    border-bottom: 1px solid var(--blog-rule);
+    padding: 0 0 1.45rem;
+}
+
+.blog-entry + .blog-entry {
+    margin-top: 1.45rem;
+}
+
+.blog-entry h3 {
+    font-size: clamp(1.15rem, 3vw, 1.45rem);
+    line-height: 1.3;
+    margin: 0.55rem 0;
+}
+
+.blog-entry h3 a {
+    color: inherit;
+}
+
+.blog-entry a:hover,
+.blog-entry a:focus-visible {
+    color: #2454a6;
+    text-decoration: underline;
+}
+
+.blog-entry p:not(.blog-meta) {
+    line-height: 1.65;
+    margin-bottom: 0.65rem;
+}
+
+.blog-translation {
+    font-size: 0.93rem;
+}
+
+.blog-post-navigation,
+.blog-post-navigation nav,
+.blog-meta {
+    align-items: baseline;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.95rem;
+}
+
+.blog-post-navigation {
+    border-bottom: 1px solid var(--blog-rule);
+    font-size: 0.875rem;
+    justify-content: space-between;
+    margin-bottom: 1.55rem;
+    padding-bottom: 0.65rem;
+}
+
+.blog-post-navigation [aria-current] {
+    color: var(--blog-ink);
+    font-weight: 700;
+}
+
+.blog-meta {
+    color: var(--blog-muted);
+    font-size: 0.85rem;
+    margin: 0;
+}
+
+.blog-post-header {
+    margin-bottom: 1.35rem;
+}
+
+.blog-post-header h1 {
+    text-wrap: balance;
+}
+
+.blog-post-header .blog-meta {
+    margin-top: 0.7rem;
+}
+
+.post-prose {
+    font-size: 1rem;
+    line-height: 1.72;
+    margin-inline: auto;
+    max-width: 40rem;
+    overflow-wrap: break-word;
+}
+
+.post-prose:lang(zh) {
+    line-height: 1.85;
+}
+
+.post-prose .post-lead {
+    font-size: 1.04em;
+}
+
+.post-prose p {
+    margin-bottom: 1em;
+}
+
+.post-prose h2 {
+    border-top: 1px solid var(--blog-rule);
+    font-size: clamp(1.2rem, 2.8vw, 1.48rem);
+    line-height: 1.35;
+    margin: 2.35rem 0 0.8rem;
+    padding-top: 0.85rem;
+}
+
+.post-prose h3 {
+    font-size: 1.12em;
+    line-height: 1.4;
+    margin: 1.65rem 0 0.65rem;
+}
+
+/* The shared navbar is fixed. Keep direct links to headings and citations visible. */
+.post-prose [id] {
+    scroll-margin-top: 5.5rem;
+}
+
+.post-prose a {
+    color: var(--blog-accent);
+    text-decoration: underline;
+    text-decoration-color: #879cb7;
+    text-underline-offset: 0.16em;
+}
+
+.post-prose a:hover {
+    text-decoration-color: currentColor;
+}
+
+.blog-page :is(a, summary):focus-visible {
+    outline: 2px solid var(--blog-accent);
+    outline-offset: 3px;
+}
+
+.post-prose .post-cite {
+    font-size: 0.76em;
+    vertical-align: 0.22em;
+    white-space: nowrap;
+}
+
+.post-prose blockquote {
+    background: #edf3fb;
+    border-left: 3px solid #7595c0;
+    margin: 1.5rem 0;
+    padding: 0.8rem 1.1rem;
+}
+
+.post-prose blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+.post-prose .post-toc {
+    background: var(--blog-tint);
+    border-inline-start: 2px solid #8ba5c3;
+    border-radius: 0.25rem;
+    font-size: 0.93rem;
+    line-height: 1.55;
+    margin: 1.7rem 0;
+    padding: 0.85rem 1.1rem;
+}
+
+.post-toc ol {
+    margin: 0.5rem 0 0;
+    padding-left: 1.55rem;
+}
+
+.post-toc li + li {
+    margin-top: 0.2rem;
+}
+
+.post-prose .post-toc-references {
+    border-top: 1px solid var(--blog-rule);
+    margin: 0.75rem 0 0;
+    padding-top: 0.65rem;
+}
+
+.post-prose figure {
+    margin: 1.3rem 0 1.55rem;
+}
+
+.post-cover img,
+.post-prose figure img {
+    background: #fff;
+    border: 1px solid var(--blog-rule);
+    border-radius: 0.45rem;
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.reasoning-proof-pair {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: clamp(0.6rem, 2vw, 1.25rem);
+}
+
+.reasoning-proof-pair strong,
+.reasoning-proof-pair span {
+    display: block;
+    font-size: 0.88em;
+    line-height: 1.5;
+}
+
+.reasoning-proof-pair strong {
+    margin: 0.45rem 0 0.2rem;
+}
+
+.post-cover {
+    margin: 0 0 1.45rem;
+}
+
+.post-cover img {
+    border-radius: 0.75rem;
+}
+
+.post-prose .post-original-figure img {
+    border-radius: 0.75rem;
+}
+
+.post-prose figcaption {
+    border-inline-start: 2px solid var(--blog-rule);
+    color: var(--blog-muted);
+    font-size: 0.88rem;
+    line-height: 1.55;
+    margin-top: 0.55rem;
+    padding-inline-start: 0.6rem;
+}
+
+
+.post-figure-source {
+    display: block;
+    margin-top: 0.3rem;
+}
+
+.post-puzzle-answer {
+    background: #fff;
+    border: 1px solid var(--blog-rule);
+    border-radius: 0.45rem;
+    margin: 0.7rem 0;
+    padding: 0.5rem 0.85rem;
+}
+
+.post-puzzle-answer + p {
+    margin-top: 1.2rem;
+}
+
+.post-puzzle-answer summary {
+    color: var(--blog-accent);
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.post-puzzle-answer img {
+    border-radius: 0.2rem;
+    display: block;
+    height: auto;
+    margin: 0.8rem 0;
+    max-width: 100%;
+}
+
+.post-puzzle-answer p:last-child {
+    margin-bottom: 0.25rem;
+}
+
+.post-table {
+    margin: 1.25rem 0;
+    overflow-x: auto;
+}
+
+.post-table table {
+    background: #fff;
+    border-collapse: collapse;
+    font-size: 0.86em;
+    min-width: 33rem;
+    width: 100%;
+}
+
+.post-table th,
+.post-table td {
+    border: 1px solid var(--blog-rule);
+    padding: 0.55rem 0.7rem;
+    text-align: start;
+    vertical-align: top;
+}
+
+.post-table th {
+    background: #edf3fb;
+}
+
+.post-references {
+    color: var(--blog-muted);
+    font-size: 0.88em;
+    line-height: 1.55;
+    padding-left: 1.65rem;
+}
+
+.post-references li + li {
+    margin-top: 0.65rem;
+}
+
+@media (max-width: 575.98px) {
+    .blog-page {
+        padding: 0.5rem 0 0;
+    }
+
+    .blog-year {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .blog-post-navigation {
+        margin-bottom: 1.2rem;
+    }
+}

@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% assign is_chinese = false %}
+{% if page.lang == 'zh-CN' %}{% assign is_chinese = true %}{% endif %}
+<main class="blog-page blog-post">
+    <article aria-labelledby="post-title">
+        <div class="blog-post-navigation">
+            <a href="{{ '/blog/' | relative_url }}" rel="up">← {% if is_chinese %}文章列表{% else %}All posts{% endif %}</a>
+            {% if page.alternate_url %}
+            <nav aria-label="{% if is_chinese %}文章语言{% else %}Article language{% endif %}">
+                {% if is_chinese %}
+                <span aria-current="page" lang="zh-CN">中文</span>
+                <a href="{{ page.alternate_url | relative_url }}" hreflang="en" lang="en" rel="alternate">English</a>
+                {% else %}
+                <a href="{{ page.alternate_url | relative_url }}" hreflang="zh-CN" lang="zh-CN" rel="alternate">中文</a>
+                <span aria-current="page" lang="en">English</span>
+                {% endif %}
+            </nav>
+            {% endif %}
+        </div>
+        <header class="blog-post-header">
+            <h1 id="post-title">{{ page.title | escape }}</h1>
+            <p class="blog-meta">
+                {% if is_chinese %}
+                <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y年%-m月%-d日' }}</time>
+                {% else %}
+                <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%b %-d, %Y' }}</time>
+                {% endif %}
+                <span>{{ page.author | escape }}{% if page.credit %} · <span lang="en">{{ page.credit | escape }}</span>{% endif %}</span>
+            </p>
+        </header>
+        {% if page.cover %}
+        <figure class="post-cover">
+            <img src="{{ page.cover.src | relative_url }}" alt="{{ page.cover.alt | escape }}"
+                 width="{{ page.cover.width }}" height="{{ page.cover.height }}" decoding="async">
+        </figure>
+        {% endif %}
+        <div class="post-prose">
+            {{ content }}
+        </div>
+    </article>
+</main>

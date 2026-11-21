@@ -1,3 +1,6 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -24,4 +27,12 @@
 </url> -->
 
 
+<url>
+  <loc>https://coder-gx.github.io{{ '/blog/' | relative_url }}</loc>
+</url>
+{% for post in site.blog %}
+<url>
+  <loc>https://coder-gx.github.io{{ post.url | relative_url }}</loc>
+</url>
+{% endfor %}
 </urlset>
