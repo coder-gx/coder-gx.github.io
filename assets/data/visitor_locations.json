@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 713
+      "count": 714
     },
     {
       "country": "TW",
-      "count": 101
+      "count": 107
     },
     {
       "country": "JP",
@@ -104,7 +104,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 74
+      "count": 75
     },
     {
       "country": "US",
@@ -179,6 +179,14 @@
       "count": 18
     },
     {
+      "country": "TW",
+      "city": "Banqiao",
+      "region": "Taipei",
+      "latitude": 25.01427,
+      "longitude": 121.46719,
+      "count": 18
+    },
+    {
       "country": "US",
       "city": "Los Angeles",
       "region": "California",
@@ -201,14 +209,6 @@
       "latitude": 1.28967,
       "longitude": 103.85007,
       "count": 15
-    },
-    {
-      "country": "TW",
-      "city": "Banqiao",
-      "region": "Taipei",
-      "latitude": 25.01427,
-      "longitude": 121.46719,
-      "count": 12
     },
     {
       "country": "US",
