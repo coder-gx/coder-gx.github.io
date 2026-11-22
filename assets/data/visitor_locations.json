@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 714
+      "count": 715
     },
     {
       "country": "TW",
-      "count": 107
+      "count": 110
     },
     {
       "country": "JP",
@@ -104,7 +104,7 @@
       "region": "Virginia",
       "latitude": 39.03761,
       "longitude": -77.41582,
-      "count": 75
+      "count": 76
     },
     {
       "country": "US",
@@ -171,19 +171,19 @@
       "count": 21
     },
     {
-      "country": "US",
-      "city": "Council Bluffs",
-      "region": "Iowa",
-      "latitude": 41.26194,
-      "longitude": -95.86083,
-      "count": 18
-    },
-    {
       "country": "TW",
       "city": "Banqiao",
       "region": "Taipei",
       "latitude": 25.01427,
       "longitude": 121.46719,
+      "count": 21
+    },
+    {
+      "country": "US",
+      "city": "Council Bluffs",
+      "region": "Iowa",
+      "latitude": 41.26194,
+      "longitude": -95.86083,
       "count": 18
     },
     {
