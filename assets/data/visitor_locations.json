@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 715
+      "count": 716
     },
     {
       "country": "TW",
@@ -236,18 +236,18 @@
     },
     {
       "country": "US",
-      "city": "New York City",
-      "region": "New York",
-      "latitude": 40.7611,
-      "longitude": -73.8916,
-      "count": 5
-    },
-    {
-      "country": "US",
       "city": "Boardman",
       "region": "Oregon",
       "latitude": 45.83986,
       "longitude": -119.70058,
+      "count": 6
+    },
+    {
+      "country": "US",
+      "city": "New York City",
+      "region": "New York",
+      "latitude": 40.7611,
+      "longitude": -73.8916,
       "count": 5
     },
     {
