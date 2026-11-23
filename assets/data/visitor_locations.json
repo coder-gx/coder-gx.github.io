@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 716
+      "count": 717
     },
     {
       "country": "TW",
@@ -65,6 +65,10 @@
       "count": 1
     },
     {
+      "country": "CO",
+      "count": 1
+    },
+    {
       "country": "BR",
       "count": 1
     },
@@ -96,7 +100,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 78
+      "count": 79
     },
     {
       "country": "US",
@@ -616,6 +620,14 @@
       "region": "",
       "latitude": 1.38028,
       "longitude": 103.83972,
+      "count": 1
+    },
+    {
+      "country": "CO",
+      "city": "Bogotá",
+      "region": "Bogota D.C.",
+      "latitude": 4.60971,
+      "longitude": -74.08175,
       "count": 1
     }
   ]
