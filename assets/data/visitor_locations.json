@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 717
+      "count": 721
     },
     {
       "country": "TW",
-      "count": 110
+      "count": 111
     },
     {
       "country": "JP",
@@ -152,6 +152,14 @@
     },
     {
       "country": "US",
+      "city": "Moses Lake",
+      "region": "Washington",
+      "latitude": 47.13014,
+      "longitude": -119.27808,
+      "count": 41
+    },
+    {
+      "country": "US",
       "city": "Cheyenne",
       "region": "Wyoming",
       "latitude": 41.13998,
@@ -159,12 +167,12 @@
       "count": 40
     },
     {
-      "country": "US",
-      "city": "Moses Lake",
-      "region": "Washington",
-      "latitude": 47.13014,
-      "longitude": -119.27808,
-      "count": 40
+      "country": "TW",
+      "city": "Banqiao",
+      "region": "Taipei",
+      "latitude": 25.01427,
+      "longitude": 121.46719,
+      "count": 22
     },
     {
       "country": "JP",
@@ -175,28 +183,12 @@
       "count": 21
     },
     {
-      "country": "TW",
-      "city": "Banqiao",
-      "region": "Taipei",
-      "latitude": 25.01427,
-      "longitude": 121.46719,
-      "count": 21
-    },
-    {
       "country": "US",
       "city": "Council Bluffs",
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
-      "count": 18
-    },
-    {
-      "country": "US",
-      "city": "Los Angeles",
-      "region": "California",
-      "latitude": 34.05223,
-      "longitude": -118.24368,
-      "count": 17
+      "count": 19
     },
     {
       "country": "US",
@@ -204,6 +196,14 @@
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
+      "count": 19
+    },
+    {
+      "country": "US",
+      "city": "Los Angeles",
+      "region": "California",
+      "latitude": 34.05223,
+      "longitude": -118.24368,
       "count": 17
     },
     {
