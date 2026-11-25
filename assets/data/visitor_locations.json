@@ -2,7 +2,7 @@
   "countries": [
     {
       "country": "US",
-      "count": 722
+      "count": 723
     },
     {
       "country": "TW",
@@ -14,7 +14,7 @@
     },
     {
       "country": "SG",
-      "count": 22
+      "count": 23
     },
     {
       "country": "HK",
@@ -100,7 +100,7 @@
       "region": "Iowa",
       "latitude": 41.60054,
       "longitude": -93.60911,
-      "count": 79
+      "count": 80
     },
     {
       "country": "US",
@@ -212,7 +212,7 @@
       "region": "",
       "latitude": 1.28967,
       "longitude": 103.85007,
-      "count": 15
+      "count": 16
     },
     {
       "country": "US",
