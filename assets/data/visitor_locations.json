@@ -2,19 +2,19 @@
   "countries": [
     {
       "country": "US",
-      "count": 725
+      "count": 728
     },
     {
       "country": "TW",
-      "count": 113
-    },
-    {
-      "country": "JP",
-      "count": 27
+      "count": 120
     },
     {
       "country": "SG",
-      "count": 23
+      "count": 31
+    },
+    {
+      "country": "JP",
+      "count": 29
     },
     {
       "country": "HK",
@@ -116,7 +116,7 @@
       "region": "Arizona",
       "latitude": 33.44838,
       "longitude": -112.07404,
-      "count": 71
+      "count": 72
     },
     {
       "country": "US",
@@ -172,6 +172,14 @@
       "region": "Taipei",
       "latitude": 25.01427,
       "longitude": 121.46719,
+      "count": 31
+    },
+    {
+      "country": "SG",
+      "city": "Singapore",
+      "region": "",
+      "latitude": 1.28967,
+      "longitude": 103.85007,
       "count": 24
     },
     {
@@ -188,7 +196,7 @@
       "region": "Iowa",
       "latitude": 41.26194,
       "longitude": -95.86083,
-      "count": 19
+      "count": 20
     },
     {
       "country": "US",
@@ -196,7 +204,7 @@
       "region": "Texas",
       "latitude": 32.78306,
       "longitude": -96.80667,
-      "count": 19
+      "count": 20
     },
     {
       "country": "US",
@@ -205,14 +213,6 @@
       "latitude": 34.05223,
       "longitude": -118.24368,
       "count": 17
-    },
-    {
-      "country": "SG",
-      "city": "Singapore",
-      "region": "",
-      "latitude": 1.28967,
-      "longitude": 103.85007,
-      "count": 16
     },
     {
       "country": "US",
@@ -245,6 +245,14 @@
       "latitude": 45.83986,
       "longitude": -119.70058,
       "count": 7
+    },
+    {
+      "country": "JP",
+      "city": "Asagaya-minami",
+      "region": "Tokyo",
+      "latitude": 35.6769,
+      "longitude": 139.652,
+      "count": 5
     },
     {
       "country": "US",
@@ -292,14 +300,6 @@
       "region": "Dhaka Division",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "count": 3
-    },
-    {
-      "country": "JP",
-      "city": "Asagaya-minami",
-      "region": "Tokyo",
-      "latitude": 35.6769,
-      "longitude": 139.652,
       "count": 3
     },
     {
