@@ -22,6 +22,7 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     Hi! I am Xuan Gong (<b>Xander Gong</b>), a second-year Ph.D. student in the School of Computer Science at Shanghai Jiao Tong University.
+    My Ph.D. advisor is <a href="https://scholar.google.com/citations?user=L8r9ox4AAAAJ">Prof. Shiyu Liang</a>.
   </p>
   <p>
     My research focuses on <b>optimization and reinforcement learning</b> for foundation models (LLMs, VLMs, etc.), exploring which training signals and experiences are most informative and how to use them for more effective learning. I am motivated by the challenge of moving beyond static datasets toward learning through interaction with complex, partially observable real-world environments. Furthermore, I am interested in connecting algorithmic and theoretical advances with real-world applications, especially in AI for science and embodied intelligence.
@@ -41,15 +42,17 @@ portrait_caption: >-
   Taken at Fudan University, March 2023
 
 education:
+- name: Shanghai AI Lab
+  logo: /assets/images/badges/shanghai_ai_lab.ico
+  position: Research Intern
+  date: Dec. 2026 - present
 - name: Shanghai Jiao Tong University
   logo: /assets/images/badges/sjtu_red.png
-  position: >- 
-    School of Computer Science <br/>
-    Ph.D. Student
+  position: Ph.D. Student in CS
   date: Sep. 2025 - present
 - name: Tongji University
   logo: /assets/images/badges/tongji_blue.png
-  position: B.S. in Computer Science (GPA rank <b>top 5%</b>)
+  position: B.S. in CS (GPA rank <b>top 5%</b>)
   date: Sep. 2021 - Jul. 2025
 
 # experience:
@@ -63,5 +66,7 @@ awards:
   date: 2022
 - name: Outstanding Graduate of Tongji University
   date: 2025
-- name: First Prize of The 14th National University Student Mathematics Competition Non-Mathematics Category (Shanghai Region) 
+- name: First Prize of The 14th National University Student Mathematics Competition
   date: 2022
+- name: Qidi Scholarship (Tongji University)
+  date: 2023
