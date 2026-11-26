@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 724
+      "count": 725
     },
     {
       "country": "TW",
-      "count": 112
+      "count": 113
     },
     {
       "country": "JP",
@@ -140,7 +140,7 @@
       "region": "Virginia",
       "latitude": 36.66764,
       "longitude": -78.3875,
-      "count": 53
+      "count": 54
     },
     {
       "country": "US",
@@ -172,7 +172,7 @@
       "region": "Taipei",
       "latitude": 25.01427,
       "longitude": 121.46719,
-      "count": 23
+      "count": 24
     },
     {
       "country": "JP",
