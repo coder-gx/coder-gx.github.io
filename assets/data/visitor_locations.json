@@ -2,11 +2,11 @@
   "countries": [
     {
       "country": "US",
-      "count": 728
+      "count": 729
     },
     {
       "country": "TW",
-      "count": 120
+      "count": 121
     },
     {
       "country": "SG",
@@ -92,7 +92,7 @@
       "region": "California",
       "latitude": 37.33939,
       "longitude": -121.89496,
-      "count": 84
+      "count": 85
     },
     {
       "country": "US",
@@ -172,7 +172,7 @@
       "region": "Taipei",
       "latitude": 25.01427,
       "longitude": 121.46719,
-      "count": 31
+      "count": 32
     },
     {
       "country": "SG",
